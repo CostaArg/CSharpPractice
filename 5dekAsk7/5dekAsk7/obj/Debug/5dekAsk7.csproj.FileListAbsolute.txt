@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\5dekAsk7\5dekAsk7\bin\Debug\5dekAsk7.exe.config
+C:\Users\Costa\source\repos\5dekAsk7\5dekAsk7\bin\Debug\5dekAsk7.exe
+C:\Users\Costa\source\repos\5dekAsk7\5dekAsk7\bin\Debug\5dekAsk7.pdb
+C:\Users\Costa\source\repos\5dekAsk7\5dekAsk7\obj\Debug\5dekAsk7.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\5dekAsk7\5dekAsk7\obj\Debug\5dekAsk7.exe
+C:\Users\Costa\source\repos\5dekAsk7\5dekAsk7\obj\Debug\5dekAsk7.pdb

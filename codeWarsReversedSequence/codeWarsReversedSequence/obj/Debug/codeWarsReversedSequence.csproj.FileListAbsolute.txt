@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\codeWarsReversedSequence\codeWarsReversedSequence\bin\Debug\codeWarsReversedSequence.exe.config
+C:\Users\Costa\source\repos\codeWarsReversedSequence\codeWarsReversedSequence\bin\Debug\codeWarsReversedSequence.exe
+C:\Users\Costa\source\repos\codeWarsReversedSequence\codeWarsReversedSequence\bin\Debug\codeWarsReversedSequence.pdb
+C:\Users\Costa\source\repos\codeWarsReversedSequence\codeWarsReversedSequence\obj\Debug\codeWarsReversedSequence.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\codeWarsReversedSequence\codeWarsReversedSequence\obj\Debug\codeWarsReversedSequence.exe
+C:\Users\Costa\source\repos\codeWarsReversedSequence\codeWarsReversedSequence\obj\Debug\codeWarsReversedSequence.pdb

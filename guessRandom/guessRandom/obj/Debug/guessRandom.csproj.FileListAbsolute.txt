@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\guessRandom\guessRandom\bin\Debug\guessRandom.exe.config
+C:\Users\Costa\source\repos\guessRandom\guessRandom\bin\Debug\guessRandom.exe
+C:\Users\Costa\source\repos\guessRandom\guessRandom\bin\Debug\guessRandom.pdb
+C:\Users\Costa\source\repos\guessRandom\guessRandom\obj\Debug\guessRandom.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\guessRandom\guessRandom\obj\Debug\guessRandom.exe
+C:\Users\Costa\source\repos\guessRandom\guessRandom\obj\Debug\guessRandom.pdb

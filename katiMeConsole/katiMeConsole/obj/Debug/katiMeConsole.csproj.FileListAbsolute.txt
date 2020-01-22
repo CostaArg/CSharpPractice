@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\katiMeConsole\katiMeConsole\obj\Debug\katiMeConsole.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\katiMeConsole\katiMeConsole\bin\Debug\katiMeConsole.exe.config
+C:\Users\Costa\source\repos\katiMeConsole\katiMeConsole\bin\Debug\katiMeConsole.exe
+C:\Users\Costa\source\repos\katiMeConsole\katiMeConsole\bin\Debug\katiMeConsole.pdb
+C:\Users\Costa\source\repos\katiMeConsole\katiMeConsole\obj\Debug\katiMeConsole.exe
+C:\Users\Costa\source\repos\katiMeConsole\katiMeConsole\obj\Debug\katiMeConsole.pdb

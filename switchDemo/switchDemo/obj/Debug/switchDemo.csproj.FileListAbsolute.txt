@@ -1,0 +1,5 @@
+C:\Users\Costa\source\repos\switchDemo\switchDemo\bin\Debug\switchDemo.exe.config
+C:\Users\Costa\source\repos\switchDemo\switchDemo\bin\Debug\switchDemo.exe
+C:\Users\Costa\source\repos\switchDemo\switchDemo\bin\Debug\switchDemo.pdb
+C:\Users\Costa\source\repos\switchDemo\switchDemo\obj\Debug\switchDemo.exe
+C:\Users\Costa\source\repos\switchDemo\switchDemo\obj\Debug\switchDemo.pdb

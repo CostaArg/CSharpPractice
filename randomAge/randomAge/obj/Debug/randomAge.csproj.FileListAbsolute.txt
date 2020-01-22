@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\randomAge\randomAge\bin\Debug\randomAge.exe.config
+C:\Users\Costa\source\repos\randomAge\randomAge\bin\Debug\randomAge.exe
+C:\Users\Costa\source\repos\randomAge\randomAge\bin\Debug\randomAge.pdb
+C:\Users\Costa\source\repos\randomAge\randomAge\obj\Debug\randomAge.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\randomAge\randomAge\obj\Debug\randomAge.exe
+C:\Users\Costa\source\repos\randomAge\randomAge\obj\Debug\randomAge.pdb

@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\4dekAsk2\4dekAsk2\bin\Debug\4dekAsk2.exe.config
+C:\Users\Costa\source\repos\4dekAsk2\4dekAsk2\bin\Debug\4dekAsk2.exe
+C:\Users\Costa\source\repos\4dekAsk2\4dekAsk2\bin\Debug\4dekAsk2.pdb
+C:\Users\Costa\source\repos\4dekAsk2\4dekAsk2\obj\Debug\4dekAsk2.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\4dekAsk2\4dekAsk2\obj\Debug\4dekAsk2.exe
+C:\Users\Costa\source\repos\4dekAsk2\4dekAsk2\obj\Debug\4dekAsk2.pdb

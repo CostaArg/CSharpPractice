@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\methodos\methodos\bin\Debug\methodos.exe.config
+C:\Users\Costa\source\repos\methodos\methodos\bin\Debug\methodos.exe
+C:\Users\Costa\source\repos\methodos\methodos\bin\Debug\methodos.pdb
+C:\Users\Costa\source\repos\methodos\methodos\obj\Debug\methodos.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\methodos\methodos\obj\Debug\methodos.exe
+C:\Users\Costa\source\repos\methodos\methodos\obj\Debug\methodos.pdb

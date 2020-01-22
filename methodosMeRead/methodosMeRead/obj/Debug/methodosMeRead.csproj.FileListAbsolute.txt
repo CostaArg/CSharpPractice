@@ -1,0 +1,5 @@
+C:\Users\Costa\source\repos\methodosMeRead\methodosMeRead\bin\Debug\methodosMeRead.exe.config
+C:\Users\Costa\source\repos\methodosMeRead\methodosMeRead\bin\Debug\methodosMeRead.exe
+C:\Users\Costa\source\repos\methodosMeRead\methodosMeRead\bin\Debug\methodosMeRead.pdb
+C:\Users\Costa\source\repos\methodosMeRead\methodosMeRead\obj\Debug\methodosMeRead.exe
+C:\Users\Costa\source\repos\methodosMeRead\methodosMeRead\obj\Debug\methodosMeRead.pdb

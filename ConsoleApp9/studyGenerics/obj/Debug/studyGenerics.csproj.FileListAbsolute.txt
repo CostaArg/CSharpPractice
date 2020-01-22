@@ -1,0 +1,5 @@
+C:\Users\Costa\source\repos\ConsoleApp9\studyGenerics\bin\Debug\studyGenerics.exe.config
+C:\Users\Costa\source\repos\ConsoleApp9\studyGenerics\bin\Debug\studyGenerics.exe
+C:\Users\Costa\source\repos\ConsoleApp9\studyGenerics\bin\Debug\studyGenerics.pdb
+C:\Users\Costa\source\repos\ConsoleApp9\studyGenerics\obj\Debug\studyGenerics.exe
+C:\Users\Costa\source\repos\ConsoleApp9\studyGenerics\obj\Debug\studyGenerics.pdb

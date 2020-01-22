@@ -1,0 +1,5 @@
+C:\Users\Costa\source\repos\codeWarsDivisables\codeWarsDivisables\bin\Debug\codeWarsDivisables.exe.config
+C:\Users\Costa\source\repos\codeWarsDivisables\codeWarsDivisables\bin\Debug\codeWarsDivisables.exe
+C:\Users\Costa\source\repos\codeWarsDivisables\codeWarsDivisables\bin\Debug\codeWarsDivisables.pdb
+C:\Users\Costa\source\repos\codeWarsDivisables\codeWarsDivisables\obj\Debug\codeWarsDivisables.exe
+C:\Users\Costa\source\repos\codeWarsDivisables\codeWarsDivisables\obj\Debug\codeWarsDivisables.pdb

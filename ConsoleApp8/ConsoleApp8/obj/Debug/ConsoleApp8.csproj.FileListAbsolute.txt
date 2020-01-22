@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+C:\Users\Costa\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+C:\Users\Costa\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+C:\Users\Costa\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+C:\Users\Costa\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.pdb

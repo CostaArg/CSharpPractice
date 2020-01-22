@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\protosPinakas\protosPinakas\bin\Debug\protosPinakas.exe.config
+C:\Users\Costa\source\repos\protosPinakas\protosPinakas\bin\Debug\protosPinakas.exe
+C:\Users\Costa\source\repos\protosPinakas\protosPinakas\bin\Debug\protosPinakas.pdb
+C:\Users\Costa\source\repos\protosPinakas\protosPinakas\obj\Debug\protosPinakas.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\protosPinakas\protosPinakas\obj\Debug\protosPinakas.exe
+C:\Users\Costa\source\repos\protosPinakas\protosPinakas\obj\Debug\protosPinakas.pdb

@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\projectParagontikh\projectParagontikh\bin\Debug\projectParagontikh.exe.config
+C:\Users\Costa\source\repos\projectParagontikh\projectParagontikh\bin\Debug\projectParagontikh.exe
+C:\Users\Costa\source\repos\projectParagontikh\projectParagontikh\bin\Debug\projectParagontikh.pdb
+C:\Users\Costa\source\repos\projectParagontikh\projectParagontikh\obj\Debug\projectParagontikh.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\projectParagontikh\projectParagontikh\obj\Debug\projectParagontikh.exe
+C:\Users\Costa\source\repos\projectParagontikh\projectParagontikh\obj\Debug\projectParagontikh.pdb

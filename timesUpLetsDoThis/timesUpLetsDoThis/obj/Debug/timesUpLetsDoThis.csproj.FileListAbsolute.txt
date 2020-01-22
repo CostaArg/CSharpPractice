@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\timesUpLetsDoThis\timesUpLetsDoThis\bin\Debug\timesUpLetsDoThis.exe.config
+C:\Users\Costa\source\repos\timesUpLetsDoThis\timesUpLetsDoThis\bin\Debug\timesUpLetsDoThis.exe
+C:\Users\Costa\source\repos\timesUpLetsDoThis\timesUpLetsDoThis\bin\Debug\timesUpLetsDoThis.pdb
+C:\Users\Costa\source\repos\timesUpLetsDoThis\timesUpLetsDoThis\obj\Debug\timesUpLetsDoThis.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\timesUpLetsDoThis\timesUpLetsDoThis\obj\Debug\timesUpLetsDoThis.exe
+C:\Users\Costa\source\repos\timesUpLetsDoThis\timesUpLetsDoThis\obj\Debug\timesUpLetsDoThis.pdb

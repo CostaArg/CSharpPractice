@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\codeWarsPrime\codeWarsPrime\bin\Debug\codeWarsPrime.exe.config
+C:\Users\Costa\source\repos\codeWarsPrime\codeWarsPrime\bin\Debug\codeWarsPrime.exe
+C:\Users\Costa\source\repos\codeWarsPrime\codeWarsPrime\bin\Debug\codeWarsPrime.pdb
+C:\Users\Costa\source\repos\codeWarsPrime\codeWarsPrime\obj\Debug\codeWarsPrime.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\codeWarsPrime\codeWarsPrime\obj\Debug\codeWarsPrime.exe
+C:\Users\Costa\source\repos\codeWarsPrime\codeWarsPrime\obj\Debug\codeWarsPrime.pdb

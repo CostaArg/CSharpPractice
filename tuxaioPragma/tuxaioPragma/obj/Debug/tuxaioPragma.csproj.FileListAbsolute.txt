@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\tuxaioPragma\tuxaioPragma\bin\Debug\tuxaioPragma.exe.config
+C:\Users\Costa\source\repos\tuxaioPragma\tuxaioPragma\bin\Debug\tuxaioPragma.exe
+C:\Users\Costa\source\repos\tuxaioPragma\tuxaioPragma\bin\Debug\tuxaioPragma.pdb
+C:\Users\Costa\source\repos\tuxaioPragma\tuxaioPragma\obj\Debug\tuxaioPragma.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\tuxaioPragma\tuxaioPragma\obj\Debug\tuxaioPragma.exe
+C:\Users\Costa\source\repos\tuxaioPragma\tuxaioPragma\obj\Debug\tuxaioPragma.pdb

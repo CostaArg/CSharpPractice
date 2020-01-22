@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\eksafanish\eksafanish\bin\Debug\eksafanish.exe.config
+C:\Users\Costa\source\repos\eksafanish\eksafanish\bin\Debug\eksafanish.exe
+C:\Users\Costa\source\repos\eksafanish\eksafanish\bin\Debug\eksafanish.pdb
+C:\Users\Costa\source\repos\eksafanish\eksafanish\obj\Debug\eksafanish.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\eksafanish\eksafanish\obj\Debug\eksafanish.exe
+C:\Users\Costa\source\repos\eksafanish\eksafanish\obj\Debug\eksafanish.pdb

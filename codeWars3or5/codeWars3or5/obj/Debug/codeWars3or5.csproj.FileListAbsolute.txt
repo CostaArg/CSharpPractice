@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\codeWars3or5\codeWars3or5\bin\Debug\codeWars3or5.exe.config
+C:\Users\Costa\source\repos\codeWars3or5\codeWars3or5\bin\Debug\codeWars3or5.exe
+C:\Users\Costa\source\repos\codeWars3or5\codeWars3or5\bin\Debug\codeWars3or5.pdb
+C:\Users\Costa\source\repos\codeWars3or5\codeWars3or5\obj\Debug\codeWars3or5.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\codeWars3or5\codeWars3or5\obj\Debug\codeWars3or5.exe
+C:\Users\Costa\source\repos\codeWars3or5\codeWars3or5\obj\Debug\codeWars3or5.pdb

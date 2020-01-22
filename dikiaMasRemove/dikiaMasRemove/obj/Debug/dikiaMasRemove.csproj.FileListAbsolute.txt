@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\dikiaMasRemove\dikiaMasRemove\bin\Debug\dikiaMasRemove.exe.config
+C:\Users\Costa\source\repos\dikiaMasRemove\dikiaMasRemove\bin\Debug\dikiaMasRemove.exe
+C:\Users\Costa\source\repos\dikiaMasRemove\dikiaMasRemove\bin\Debug\dikiaMasRemove.pdb
+C:\Users\Costa\source\repos\dikiaMasRemove\dikiaMasRemove\obj\Debug\dikiaMasRemove.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\dikiaMasRemove\dikiaMasRemove\obj\Debug\dikiaMasRemove.exe
+C:\Users\Costa\source\repos\dikiaMasRemove\dikiaMasRemove\obj\Debug\dikiaMasRemove.pdb

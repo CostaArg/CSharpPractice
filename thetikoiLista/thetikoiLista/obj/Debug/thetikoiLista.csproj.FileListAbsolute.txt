@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\thetikoiLista\thetikoiLista\bin\Debug\thetikoiLista.exe.config
+C:\Users\Costa\source\repos\thetikoiLista\thetikoiLista\bin\Debug\thetikoiLista.exe
+C:\Users\Costa\source\repos\thetikoiLista\thetikoiLista\bin\Debug\thetikoiLista.pdb
+C:\Users\Costa\source\repos\thetikoiLista\thetikoiLista\obj\Debug\thetikoiLista.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\thetikoiLista\thetikoiLista\obj\Debug\thetikoiLista.exe
+C:\Users\Costa\source\repos\thetikoiLista\thetikoiLista\obj\Debug\thetikoiLista.pdb

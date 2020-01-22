@@ -1,0 +1,5 @@
+C:\Users\Costa\source\repos\enum2\enum2\bin\Debug\enum2.exe.config
+C:\Users\Costa\source\repos\enum2\enum2\bin\Debug\enum2.exe
+C:\Users\Costa\source\repos\enum2\enum2\bin\Debug\enum2.pdb
+C:\Users\Costa\source\repos\enum2\enum2\obj\Debug\enum2.exe
+C:\Users\Costa\source\repos\enum2\enum2\obj\Debug\enum2.pdb

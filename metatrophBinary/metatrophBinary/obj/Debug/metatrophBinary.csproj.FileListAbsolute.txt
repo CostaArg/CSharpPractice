@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\metatrophBinary\metatrophBinary\bin\Debug\metatrophBinary.exe.config
+C:\Users\Costa\source\repos\metatrophBinary\metatrophBinary\bin\Debug\metatrophBinary.exe
+C:\Users\Costa\source\repos\metatrophBinary\metatrophBinary\bin\Debug\metatrophBinary.pdb
+C:\Users\Costa\source\repos\metatrophBinary\metatrophBinary\obj\Debug\metatrophBinary.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\metatrophBinary\metatrophBinary\obj\Debug\metatrophBinary.exe
+C:\Users\Costa\source\repos\metatrophBinary\metatrophBinary\obj\Debug\metatrophBinary.pdb

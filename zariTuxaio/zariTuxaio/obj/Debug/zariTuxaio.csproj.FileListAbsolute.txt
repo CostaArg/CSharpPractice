@@ -1,0 +1,5 @@
+C:\Users\Costa\source\repos\zariTuxaio\zariTuxaio\bin\Debug\zariTuxaio.exe.config
+C:\Users\Costa\source\repos\zariTuxaio\zariTuxaio\bin\Debug\zariTuxaio.exe
+C:\Users\Costa\source\repos\zariTuxaio\zariTuxaio\bin\Debug\zariTuxaio.pdb
+C:\Users\Costa\source\repos\zariTuxaio\zariTuxaio\obj\Debug\zariTuxaio.exe
+C:\Users\Costa\source\repos\zariTuxaio\zariTuxaio\obj\Debug\zariTuxaio.pdb

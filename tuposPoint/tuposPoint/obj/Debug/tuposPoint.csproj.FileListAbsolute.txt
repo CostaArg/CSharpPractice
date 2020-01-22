@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\tuposPoint\tuposPoint\bin\Debug\tuposPoint.exe.config
+C:\Users\Costa\source\repos\tuposPoint\tuposPoint\bin\Debug\tuposPoint.exe
+C:\Users\Costa\source\repos\tuposPoint\tuposPoint\bin\Debug\tuposPoint.pdb
+C:\Users\Costa\source\repos\tuposPoint\tuposPoint\obj\Debug\tuposPoint.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\tuposPoint\tuposPoint\obj\Debug\tuposPoint.exe
+C:\Users\Costa\source\repos\tuposPoint\tuposPoint\obj\Debug\tuposPoint.pdb

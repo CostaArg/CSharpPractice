@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\onomateponimo\onomateponimo\bin\Debug\onomateponimo.exe.config
+C:\Users\Costa\source\repos\onomateponimo\onomateponimo\bin\Debug\onomateponimo.exe
+C:\Users\Costa\source\repos\onomateponimo\onomateponimo\bin\Debug\onomateponimo.pdb
+C:\Users\Costa\source\repos\onomateponimo\onomateponimo\obj\Debug\onomateponimo.exe
+C:\Users\Costa\source\repos\onomateponimo\onomateponimo\obj\Debug\onomateponimo.pdb
+C:\Users\Costa\source\repos\onomateponimo\onomateponimo\obj\Debug\onomateponimo.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\1me7\1me7\obj\Debug\1me7.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\1me7\1me7\bin\Debug\1me7.exe.config
+C:\Users\Costa\source\repos\1me7\1me7\bin\Debug\1me7.exe
+C:\Users\Costa\source\repos\1me7\1me7\bin\Debug\1me7.pdb
+C:\Users\Costa\source\repos\1me7\1me7\obj\Debug\1me7.exe
+C:\Users\Costa\source\repos\1me7\1me7\obj\Debug\1me7.pdb

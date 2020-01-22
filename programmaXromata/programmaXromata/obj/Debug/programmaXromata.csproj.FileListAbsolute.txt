@@ -1,0 +1,5 @@
+C:\Users\Costa\source\repos\programmaXromata\programmaXromata\bin\Debug\programmaXromata.exe.config
+C:\Users\Costa\source\repos\programmaXromata\programmaXromata\bin\Debug\programmaXromata.exe
+C:\Users\Costa\source\repos\programmaXromata\programmaXromata\bin\Debug\programmaXromata.pdb
+C:\Users\Costa\source\repos\programmaXromata\programmaXromata\obj\Debug\programmaXromata.exe
+C:\Users\Costa\source\repos\programmaXromata\programmaXromata\obj\Debug\programmaXromata.pdb

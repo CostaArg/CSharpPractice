@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\diairesh\diairesh\bin\Debug\diairesh.exe.config
+C:\Users\Costa\source\repos\diairesh\diairesh\bin\Debug\diairesh.exe
+C:\Users\Costa\source\repos\diairesh\diairesh\bin\Debug\diairesh.pdb
+C:\Users\Costa\source\repos\diairesh\diairesh\obj\Debug\diairesh.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\diairesh\diairesh\obj\Debug\diairesh.exe
+C:\Users\Costa\source\repos\diairesh\diairesh\obj\Debug\diairesh.pdb

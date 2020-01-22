@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\codeWarsSum0toN\codeWarsSum0toN\bin\Debug\codeWarsSum0toN.exe.config
+C:\Users\Costa\source\repos\codeWarsSum0toN\codeWarsSum0toN\bin\Debug\codeWarsSum0toN.exe
+C:\Users\Costa\source\repos\codeWarsSum0toN\codeWarsSum0toN\bin\Debug\codeWarsSum0toN.pdb
+C:\Users\Costa\source\repos\codeWarsSum0toN\codeWarsSum0toN\obj\Debug\codeWarsSum0toN.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\codeWarsSum0toN\codeWarsSum0toN\obj\Debug\codeWarsSum0toN.exe
+C:\Users\Costa\source\repos\codeWarsSum0toN\codeWarsSum0toN\obj\Debug\codeWarsSum0toN.pdb

@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\chessMasterMeDisdiastato\chessMasterMeDisdiastato\bin\Debug\chessMasterMeDisdiastato.exe.config
+C:\Users\Costa\source\repos\chessMasterMeDisdiastato\chessMasterMeDisdiastato\bin\Debug\chessMasterMeDisdiastato.exe
+C:\Users\Costa\source\repos\chessMasterMeDisdiastato\chessMasterMeDisdiastato\bin\Debug\chessMasterMeDisdiastato.pdb
+C:\Users\Costa\source\repos\chessMasterMeDisdiastato\chessMasterMeDisdiastato\obj\Debug\chessMasterMeDisdiastato.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\chessMasterMeDisdiastato\chessMasterMeDisdiastato\obj\Debug\chessMasterMeDisdiastato.exe
+C:\Users\Costa\source\repos\chessMasterMeDisdiastato\chessMasterMeDisdiastato\obj\Debug\chessMasterMeDisdiastato.pdb

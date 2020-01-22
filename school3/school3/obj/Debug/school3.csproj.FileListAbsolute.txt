@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\school3\school3\bin\Debug\school3.exe.config
+C:\Users\Costa\source\repos\school3\school3\bin\Debug\school3.exe
+C:\Users\Costa\source\repos\school3\school3\bin\Debug\school3.pdb
+C:\Users\Costa\source\repos\school3\school3\obj\Debug\school3.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\school3\school3\obj\Debug\school3.exe
+C:\Users\Costa\source\repos\school3\school3\obj\Debug\school3.pdb
