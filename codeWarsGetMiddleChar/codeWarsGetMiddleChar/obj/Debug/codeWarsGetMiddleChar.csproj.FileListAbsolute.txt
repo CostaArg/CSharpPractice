@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\codeWarsGetMiddleChar\codeWarsGetMiddleChar\bin\Debug\codeWarsGetMiddleChar.exe.config
+C:\Users\Costa\source\repos\codeWarsGetMiddleChar\codeWarsGetMiddleChar\bin\Debug\codeWarsGetMiddleChar.exe
+C:\Users\Costa\source\repos\codeWarsGetMiddleChar\codeWarsGetMiddleChar\bin\Debug\codeWarsGetMiddleChar.pdb
+C:\Users\Costa\source\repos\codeWarsGetMiddleChar\codeWarsGetMiddleChar\obj\Debug\codeWarsGetMiddleChar.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\codeWarsGetMiddleChar\codeWarsGetMiddleChar\obj\Debug\codeWarsGetMiddleChar.exe
+C:\Users\Costa\source\repos\codeWarsGetMiddleChar\codeWarsGetMiddleChar\obj\Debug\codeWarsGetMiddleChar.pdb

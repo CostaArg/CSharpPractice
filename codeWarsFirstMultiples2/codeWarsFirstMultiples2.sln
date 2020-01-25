@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codeWarsFirstMultiples2", "codeWarsFirstMultiples2\codeWarsFirstMultiples2.csproj", "{0FD1E30E-B9FB-4A7E-B052-6973347423FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FD1E30E-B9FB-4A7E-B052-6973347423FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FD1E30E-B9FB-4A7E-B052-6973347423FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FD1E30E-B9FB-4A7E-B052-6973347423FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FD1E30E-B9FB-4A7E-B052-6973347423FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B63B18C-E7F5-408E-A2E4-F7EA8D4B7A22}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\codeWarsCountDivisors\codeWarsCountDivisors\bin\Debug\codeWarsCountDivisors.exe.config
+C:\Users\Costa\source\repos\codeWarsCountDivisors\codeWarsCountDivisors\bin\Debug\codeWarsCountDivisors.exe
+C:\Users\Costa\source\repos\codeWarsCountDivisors\codeWarsCountDivisors\bin\Debug\codeWarsCountDivisors.pdb
+C:\Users\Costa\source\repos\codeWarsCountDivisors\codeWarsCountDivisors\obj\Debug\codeWarsCountDivisors.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\codeWarsCountDivisors\codeWarsCountDivisors\obj\Debug\codeWarsCountDivisors.exe
+C:\Users\Costa\source\repos\codeWarsCountDivisors\codeWarsCountDivisors\obj\Debug\codeWarsCountDivisors.pdb

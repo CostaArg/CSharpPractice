@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\codeWarsSnippingWords\codeWarsSnippingWords\bin\Debug\codeWarsSnippingWords.exe.config
+C:\Users\Costa\source\repos\codeWarsSnippingWords\codeWarsSnippingWords\bin\Debug\codeWarsSnippingWords.exe
+C:\Users\Costa\source\repos\codeWarsSnippingWords\codeWarsSnippingWords\bin\Debug\codeWarsSnippingWords.pdb
+C:\Users\Costa\source\repos\codeWarsSnippingWords\codeWarsSnippingWords\obj\Debug\codeWarsSnippingWords.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\codeWarsSnippingWords\codeWarsSnippingWords\obj\Debug\codeWarsSnippingWords.exe
+C:\Users\Costa\source\repos\codeWarsSnippingWords\codeWarsSnippingWords\obj\Debug\codeWarsSnippingWords.pdb

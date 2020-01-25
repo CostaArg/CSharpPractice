@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\codeWarsGradeBook\codeWarsGradeBook\bin\Debug\codeWarsGradeBook.exe.config
+C:\Users\Costa\source\repos\codeWarsGradeBook\codeWarsGradeBook\bin\Debug\codeWarsGradeBook.exe
+C:\Users\Costa\source\repos\codeWarsGradeBook\codeWarsGradeBook\bin\Debug\codeWarsGradeBook.pdb
+C:\Users\Costa\source\repos\codeWarsGradeBook\codeWarsGradeBook\obj\Debug\codeWarsGradeBook.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\codeWarsGradeBook\codeWarsGradeBook\obj\Debug\codeWarsGradeBook.exe
+C:\Users\Costa\source\repos\codeWarsGradeBook\codeWarsGradeBook\obj\Debug\codeWarsGradeBook.pdb
