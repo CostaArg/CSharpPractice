@@ -13,8 +13,7 @@ namespace codeWarsJosephusPermutation
             List<object> items = new List<object> { 1, 2, 3, 4, 5, 6, 7 };
             int k = 3;
 
-            List<object> turns = new List<object>();
-            turns = Josephus.JosephusPermutation(items, k);
+            List<object> turns = Josephus.JosephusPermutation(items, k);
 
             foreach (var item in turns)
             {
@@ -28,20 +27,27 @@ namespace codeWarsJosephusPermutation
         public static List<object> JosephusPermutation(List<object> items, int k)
         {
             List<object> turns = new List<object>();
+            int point = k - 1;
 
-            int counter = k;
-
-            foreach (var item in items)
+            do
             {
-                turns.Add(items[counter]);
+                if (point >= items.Count)
+                    point -= items.Count;
 
-                Console.WriteLine(items[counter]);
+                turns.Add(items[point]);
+                items.Remove(items[point]);
 
-                counter += k;
+                if (items.Count == 2)
+                    break;
 
-                if (counter > items.Count - 1)
-                    counter = items.Count - counter - 1;
-            }
+                point += k - 1;
+
+            } while (items.Count != 2);
+
+            point -= items.Count;
+            turns.Add(items[point]);
+            items.Remove(items[point]);
+            turns.Add(items[0]);
 
             return turns;
         }

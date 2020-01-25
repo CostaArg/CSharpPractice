@@ -4,3 +4,9 @@ C:\Users\Costa\source\repos\codeWarsJosephusPermutation\codeWarsJosephusPermutat
 C:\Users\Costa\source\repos\codeWarsJosephusPermutation\codeWarsJosephusPermutation\obj\Debug\codeWarsJosephusPermutation.csprojAssemblyReference.cache
 C:\Users\Costa\source\repos\codeWarsJosephusPermutation\codeWarsJosephusPermutation\obj\Debug\codeWarsJosephusPermutation.exe
 C:\Users\Costa\source\repos\codeWarsJosephusPermutation\codeWarsJosephusPermutation\obj\Debug\codeWarsJosephusPermutation.pdb
+C:\Users\Costa\Desktop\csharpPractice\codeWarsJosephusPermutation\codeWarsJosephusPermutation\bin\Debug\codeWarsJosephusPermutation.exe.config
+C:\Users\Costa\Desktop\csharpPractice\codeWarsJosephusPermutation\codeWarsJosephusPermutation\bin\Debug\codeWarsJosephusPermutation.exe
+C:\Users\Costa\Desktop\csharpPractice\codeWarsJosephusPermutation\codeWarsJosephusPermutation\bin\Debug\codeWarsJosephusPermutation.pdb
+C:\Users\Costa\Desktop\csharpPractice\codeWarsJosephusPermutation\codeWarsJosephusPermutation\obj\Debug\codeWarsJosephusPermutation.csprojAssemblyReference.cache
+C:\Users\Costa\Desktop\csharpPractice\codeWarsJosephusPermutation\codeWarsJosephusPermutation\obj\Debug\codeWarsJosephusPermutation.exe
+C:\Users\Costa\Desktop\csharpPractice\codeWarsJosephusPermutation\codeWarsJosephusPermutation\obj\Debug\codeWarsJosephusPermutation.pdb
