@@ -31,8 +31,10 @@ namespace codeWarsJosephusPermutation
 
             while (items.Count != 0)
             {
-                if (point >= items.Count)
+                while (point >= items.Count)
+                {
                     point -= items.Count;
+                }
 
                 Console.WriteLine("Pointer position: " + point + " looking at: " + items[point]);
 
@@ -45,7 +47,6 @@ namespace codeWarsJosephusPermutation
 
                 turns.Add(items[point]);
                 items.RemoveAt(point);
-
                 point += k - 1;
 
             };
