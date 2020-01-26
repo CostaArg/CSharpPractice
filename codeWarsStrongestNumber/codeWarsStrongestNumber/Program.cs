@@ -10,64 +10,61 @@ namespace codeWarsStrongestNumber
     {
         static void Main(string[] args)
         {
-            int number = StrongestEvenNumber.strongestEven(5, 10);
-            Console.WriteLine(number);
+            int num = StrongestEvenNumber.strongestEven(2, 4);
+            Console.WriteLine(num);
         }
     }
-
     public class StrongestEvenNumber
     {
         public static int strongestEven(int n, int m)
         {
-            double number1a = n;
-            double number1b = n;
-            int counter1 = 0;
+            double numberN = Convert.ToDouble(n);
+            double numberM = Convert.ToDouble(m);
 
-            double number2a = m;
-            double number2b = m;
-            int counter2 = 0;
+            List<int> counters = new List<int>();
+            List<double> numbers = new List<double>();
 
-            do
+            int counter = 0;
+
+            for (double i = numberN; i <= numberM; i++)
             {
-                number1a /= 2;
-                number1b /= 2;
+                do
+                {
+                    if (i <= 2)
+                        break;
 
-                number1a = Math.Truncate(number1a);
+                    if (i % 2 == 0)
+                    {
+                        i /= 2;
+                        counter++;
+                        Console.WriteLine(i);
+                    }
+                    else
+                        break;
 
-                if (number1a == number1b)
-                    counter1++;
-                else
-                    break;
 
+                } while (true);
 
-            } while (true);
-
-            do
-            {
-                number2a /= 2;
-                number2b /= 2;
-
-                number2a = Math.Truncate(number2a);
-
-                if (number2a == number2b)
-                    counter2++;
-                else
-                    break;
-
-            } while (true);
-
-            if (counter1 > counter2)
-                return n;
-            else if (counter1 < counter2)
-                return m;
-            else
-            {
-                if (n > m)
-                    return m;
-                else
-                    return n;
+                numbers.Add(i);
+                counters.Add(counter);
+                counter = 0;
             }
+
+
+
+            return Convert.ToInt32(numbers[counters.Max()]);
+
+            //if (counter1 > counter2)
+            //    return n;
+            //else if (counter1 < counter2)
+            //    return m;
+            //else
+            //{
+            //    if (n > m)
+            //        return m;
+            //    else
+            //        return n;
+            //}
         }
     }
 }
-

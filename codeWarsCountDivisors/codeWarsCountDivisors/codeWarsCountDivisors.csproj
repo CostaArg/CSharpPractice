@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C91FF5B8-9BAC-4709-9F1D-D104AD96043B}</ProjectGuid>
+    <ProjectGuid>{89D85AAC-1884-4FC6-A700-099BC963668B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>codeWarsCountDivisors</RootNamespace>
     <AssemblyName>codeWarsCountDivisors</AssemblyName>

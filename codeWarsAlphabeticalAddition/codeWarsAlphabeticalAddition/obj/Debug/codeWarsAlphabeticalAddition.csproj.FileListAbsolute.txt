@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\codeWarsAlphabeticalAddition\codeWarsAlphabeticalAddition\bin\Debug\codeWarsAlphabeticalAddition.exe.config
+C:\Users\Costa\source\repos\codeWarsAlphabeticalAddition\codeWarsAlphabeticalAddition\bin\Debug\codeWarsAlphabeticalAddition.exe
+C:\Users\Costa\source\repos\codeWarsAlphabeticalAddition\codeWarsAlphabeticalAddition\bin\Debug\codeWarsAlphabeticalAddition.pdb
+C:\Users\Costa\source\repos\codeWarsAlphabeticalAddition\codeWarsAlphabeticalAddition\obj\Debug\codeWarsAlphabeticalAddition.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\codeWarsAlphabeticalAddition\codeWarsAlphabeticalAddition\obj\Debug\codeWarsAlphabeticalAddition.exe
+C:\Users\Costa\source\repos\codeWarsAlphabeticalAddition\codeWarsAlphabeticalAddition\obj\Debug\codeWarsAlphabeticalAddition.pdb

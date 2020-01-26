@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\codeWarsSquareEveryDigit\codeWarsSquareEveryDigit\bin\Debug\codeWarsSquareEveryDigit.exe.config
+C:\Users\Costa\source\repos\codeWarsSquareEveryDigit\codeWarsSquareEveryDigit\bin\Debug\codeWarsSquareEveryDigit.exe
+C:\Users\Costa\source\repos\codeWarsSquareEveryDigit\codeWarsSquareEveryDigit\bin\Debug\codeWarsSquareEveryDigit.pdb
+C:\Users\Costa\source\repos\codeWarsSquareEveryDigit\codeWarsSquareEveryDigit\obj\Debug\codeWarsSquareEveryDigit.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\codeWarsSquareEveryDigit\codeWarsSquareEveryDigit\obj\Debug\codeWarsSquareEveryDigit.exe
+C:\Users\Costa\source\repos\codeWarsSquareEveryDigit\codeWarsSquareEveryDigit\obj\Debug\codeWarsSquareEveryDigit.pdb

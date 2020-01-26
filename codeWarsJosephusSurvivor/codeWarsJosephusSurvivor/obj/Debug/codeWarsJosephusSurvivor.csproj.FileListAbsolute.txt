@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\codeWarsJosephusSurvivor\codeWarsJosephusSurvivor\obj\Debug\codeWarsJosephusSurvivor.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\codeWarsJosephusSurvivor\codeWarsJosephusSurvivor\bin\Debug\codeWarsJosephusSurvivor.exe.config
+C:\Users\Costa\source\repos\codeWarsJosephusSurvivor\codeWarsJosephusSurvivor\bin\Debug\codeWarsJosephusSurvivor.exe
+C:\Users\Costa\source\repos\codeWarsJosephusSurvivor\codeWarsJosephusSurvivor\bin\Debug\codeWarsJosephusSurvivor.pdb
+C:\Users\Costa\source\repos\codeWarsJosephusSurvivor\codeWarsJosephusSurvivor\obj\Debug\codeWarsJosephusSurvivor.exe
+C:\Users\Costa\source\repos\codeWarsJosephusSurvivor\codeWarsJosephusSurvivor\obj\Debug\codeWarsJosephusSurvivor.pdb

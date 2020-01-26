@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\codeWarsWideMouthedFrog\codeWarsWideMouthedFrog\bin\Debug\codeWarsWideMouthedFrog.exe.config
+C:\Users\Costa\source\repos\codeWarsWideMouthedFrog\codeWarsWideMouthedFrog\bin\Debug\codeWarsWideMouthedFrog.exe
+C:\Users\Costa\source\repos\codeWarsWideMouthedFrog\codeWarsWideMouthedFrog\bin\Debug\codeWarsWideMouthedFrog.pdb
+C:\Users\Costa\source\repos\codeWarsWideMouthedFrog\codeWarsWideMouthedFrog\obj\Debug\codeWarsWideMouthedFrog.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\codeWarsWideMouthedFrog\codeWarsWideMouthedFrog\obj\Debug\codeWarsWideMouthedFrog.exe
+C:\Users\Costa\source\repos\codeWarsWideMouthedFrog\codeWarsWideMouthedFrog\obj\Debug\codeWarsWideMouthedFrog.pdb

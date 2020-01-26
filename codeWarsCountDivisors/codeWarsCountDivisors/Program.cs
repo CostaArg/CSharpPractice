@@ -10,8 +10,6 @@ namespace codeWarsCountDivisors
     {
         static void Main(string[] args)
         {
-           int n = Kata.Divisors(54);
-            Console.WriteLine(n);
         }
     }
 
@@ -23,18 +21,18 @@ namespace codeWarsCountDivisors
 
             if (n == 0)
                 return 0;
+            else if (n == 1)
+                return 1;
 
-                do
-                {
-                    if (n % divisor == 0)
-                        counter++;
+            do
+            {
+                if (n % divisor == 0)
+                    counter++;
 
-                    divisor++;
-                } while (divisor != n);
+                divisor++;
+            } while (divisor <= n / 2);
 
             return counter;
         }
     }
-
-
 }

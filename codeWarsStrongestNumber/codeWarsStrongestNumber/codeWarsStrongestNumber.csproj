@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0FDE2BAB-3039-43BE-B02F-013798F41BB9}</ProjectGuid>
+    <ProjectGuid>{8E7A6645-C4A8-4D4E-9884-D1516FC72F41}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>codeWarsStrongestNumber</RootNamespace>
     <AssemblyName>codeWarsStrongestNumber</AssemblyName>
