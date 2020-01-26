@@ -49,7 +49,7 @@ namespace codeWarsJosephusPermutation
                 items.RemoveAt(point);
                 point += k - 1;
 
-            };
+            }
 
             return turns;
         }
