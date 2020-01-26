@@ -29,25 +29,26 @@ namespace codeWarsJosephusPermutation
             List<object> turns = new List<object>();
             int point = k - 1;
 
-            do
+            while (items.Count != 0)
             {
                 if (point >= items.Count)
                     point -= items.Count;
 
-                turns.Add(items[point]);
-                items.Remove(items[point]);
+                Console.WriteLine("Pointer position: " + point + " looking at: " + items[point]);
 
-                if (items.Count == 2)
-                    break;
+                foreach (var item in items)
+                {
+                    Console.Write(item);
+                }
+
+                Console.WriteLine();
+
+                turns.Add(items[point]);
+                items.RemoveAt(point);
 
                 point += k - 1;
 
-            } while (items.Count != 2);
-
-            point -= items.Count;
-            turns.Add(items[point]);
-            items.Remove(items[point]);
-            turns.Add(items[0]);
+            };
 
             return turns;
         }
