@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\schoolWhatever\schoolWhatever\bin\Debug\schoolWhatever.exe.config
-C:\Users\Costa\source\repos\schoolWhatever\schoolWhatever\bin\Debug\schoolWhatever.exe
-C:\Users\Costa\source\repos\schoolWhatever\schoolWhatever\bin\Debug\schoolWhatever.pdb
-C:\Users\Costa\source\repos\schoolWhatever\schoolWhatever\obj\Debug\schoolWhatever.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\schoolWhatever\schoolWhatever\obj\Debug\schoolWhatever.exe
-C:\Users\Costa\source\repos\schoolWhatever\schoolWhatever\obj\Debug\schoolWhatever.pdb
