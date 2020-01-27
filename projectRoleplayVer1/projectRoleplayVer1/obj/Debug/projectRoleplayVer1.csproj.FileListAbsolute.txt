@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\projectRoleplayVer1\projectRoleplayVer1\bin\Debug\projectRoleplayVer1.exe.config
+C:\Users\Costa\source\repos\projectRoleplayVer1\projectRoleplayVer1\bin\Debug\projectRoleplayVer1.exe
+C:\Users\Costa\source\repos\projectRoleplayVer1\projectRoleplayVer1\bin\Debug\projectRoleplayVer1.pdb
+C:\Users\Costa\source\repos\projectRoleplayVer1\projectRoleplayVer1\obj\Debug\projectRoleplayVer1.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\projectRoleplayVer1\projectRoleplayVer1\obj\Debug\projectRoleplayVer1.exe
+C:\Users\Costa\source\repos\projectRoleplayVer1\projectRoleplayVer1\obj\Debug\projectRoleplayVer1.pdb
