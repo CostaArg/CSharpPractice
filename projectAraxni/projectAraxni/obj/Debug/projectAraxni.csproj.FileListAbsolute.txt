@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\csharpPractice\projectAraxni\projectAraxni\obj\Debug\projectAraxni.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\csharpPractice\projectAraxni\projectAraxni\bin\Debug\projectAraxni.exe.config
+C:\Users\Costa\source\repos\csharpPractice\projectAraxni\projectAraxni\bin\Debug\projectAraxni.exe
+C:\Users\Costa\source\repos\csharpPractice\projectAraxni\projectAraxni\bin\Debug\projectAraxni.pdb
+C:\Users\Costa\source\repos\csharpPractice\projectAraxni\projectAraxni\obj\Debug\projectAraxni.exe
+C:\Users\Costa\source\repos\csharpPractice\projectAraxni\projectAraxni\obj\Debug\projectAraxni.pdb

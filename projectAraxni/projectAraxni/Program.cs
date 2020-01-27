@@ -38,6 +38,12 @@ namespace projectAraxni
         {
             Console.WriteLine("The spider's weight is " + weight + " and its length is " + length + " and its type " + type);
         }
+
+        public double getWeight()
+        {
+            return weight;
+        }
+
         static void Main(string[] args)
         {
             Spider sp1 = new Spider();
@@ -52,6 +58,23 @@ namespace projectAraxni
 
             Console.WriteLine("Give me the type of the first spider: ");
             sp1.type = Console.ReadLine();
+
+            double max = -1;
+
+            List<Spider> spiderList = new List<Spider>();
+            spiderList.Add(sp1);
+            spiderList.Add(sp2);
+            spiderList.Add(sp3);
+
+            foreach (var item in spiderList)
+            {
+                if (item.weight > max)
+                {
+                    max = item.weight;
+                }
+            }
+
+            Console.WriteLine("Size of the biggest spider is: " + max);
 
             sp1.print();
             sp2.print();
