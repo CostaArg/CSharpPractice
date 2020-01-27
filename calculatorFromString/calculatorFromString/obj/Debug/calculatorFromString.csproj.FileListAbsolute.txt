@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\csharpPractice\calculatorFromString\calculatorFromString\bin\Debug\calculatorFromString.exe.config
+C:\Users\Costa\source\repos\csharpPractice\calculatorFromString\calculatorFromString\bin\Debug\calculatorFromString.exe
+C:\Users\Costa\source\repos\csharpPractice\calculatorFromString\calculatorFromString\bin\Debug\calculatorFromString.pdb
+C:\Users\Costa\source\repos\csharpPractice\calculatorFromString\calculatorFromString\obj\Debug\calculatorFromString.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\csharpPractice\calculatorFromString\calculatorFromString\obj\Debug\calculatorFromString.exe
+C:\Users\Costa\source\repos\csharpPractice\calculatorFromString\calculatorFromString\obj\Debug\calculatorFromString.pdb

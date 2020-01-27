@@ -1,0 +1,5 @@
+C:\Users\Costa\source\repos\csharpPractice\codeWarsSumOddTriangle\codeWarsSumOddTriangle\bin\Debug\codeWarsSumOddTriangle.exe.config
+C:\Users\Costa\source\repos\csharpPractice\codeWarsSumOddTriangle\codeWarsSumOddTriangle\bin\Debug\codeWarsSumOddTriangle.exe
+C:\Users\Costa\source\repos\csharpPractice\codeWarsSumOddTriangle\codeWarsSumOddTriangle\bin\Debug\codeWarsSumOddTriangle.pdb
+C:\Users\Costa\source\repos\csharpPractice\codeWarsSumOddTriangle\codeWarsSumOddTriangle\obj\Debug\codeWarsSumOddTriangle.exe
+C:\Users\Costa\source\repos\csharpPractice\codeWarsSumOddTriangle\codeWarsSumOddTriangle\obj\Debug\codeWarsSumOddTriangle.pdb
