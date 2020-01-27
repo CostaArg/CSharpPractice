@@ -10,7 +10,7 @@ namespace codeWarsNumberToReversedArray
     {
         static void Main(string[] args)
         {
-           int[] something = Digitizer.Digitize(35231);
+           long[] something = Digitizer.Digitize(35231);
 
             foreach (var item in something)
             {
@@ -21,21 +21,21 @@ namespace codeWarsNumberToReversedArray
 
     class Digitizer
     {
-        public static int[] Digitize(int n)
+        public static long[] Digitize(int n)
         {
-            // Code goes here
-            List<char> xaraktires = new List<char>();
+            List<char> chars = new List<char>();
 
-            string kati = Convert.ToString(n);
+            chars.AddRange(n.ToString());
+            chars.Reverse();
 
-            xaraktires.AddRange(kati);
-            xaraktires.Reverse();
+            List<long> numbers = new List<long>();
 
-            int[] pinakas;
+            foreach (var item in chars)
+            {
+                numbers.Add(Convert.ToInt64(item - 48));
+            }
 
-            pinakas = makria.ToArray();
-
-            return pinakas;
+            return numbers.ToArray();
         }
     }
 }
