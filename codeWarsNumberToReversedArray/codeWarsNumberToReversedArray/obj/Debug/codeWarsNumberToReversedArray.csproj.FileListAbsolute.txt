@@ -4,3 +4,9 @@ C:\Users\Costa\source\repos\codeWarsNumberToReversedArray\codeWarsNumberToRevers
 C:\Users\Costa\source\repos\codeWarsNumberToReversedArray\codeWarsNumberToReversedArray\obj\Debug\codeWarsNumberToReversedArray.csprojAssemblyReference.cache
 C:\Users\Costa\source\repos\codeWarsNumberToReversedArray\codeWarsNumberToReversedArray\obj\Debug\codeWarsNumberToReversedArray.exe
 C:\Users\Costa\source\repos\codeWarsNumberToReversedArray\codeWarsNumberToReversedArray\obj\Debug\codeWarsNumberToReversedArray.pdb
+C:\Users\Costa\source\repos\csharpPractice\codeWarsNumberToReversedArray\codeWarsNumberToReversedArray\bin\Debug\codeWarsNumberToReversedArray.exe.config
+C:\Users\Costa\source\repos\csharpPractice\codeWarsNumberToReversedArray\codeWarsNumberToReversedArray\bin\Debug\codeWarsNumberToReversedArray.exe
+C:\Users\Costa\source\repos\csharpPractice\codeWarsNumberToReversedArray\codeWarsNumberToReversedArray\bin\Debug\codeWarsNumberToReversedArray.pdb
+C:\Users\Costa\source\repos\csharpPractice\codeWarsNumberToReversedArray\codeWarsNumberToReversedArray\obj\Debug\codeWarsNumberToReversedArray.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\csharpPractice\codeWarsNumberToReversedArray\codeWarsNumberToReversedArray\obj\Debug\codeWarsNumberToReversedArray.exe
+C:\Users\Costa\source\repos\csharpPractice\codeWarsNumberToReversedArray\codeWarsNumberToReversedArray\obj\Debug\codeWarsNumberToReversedArray.pdb
