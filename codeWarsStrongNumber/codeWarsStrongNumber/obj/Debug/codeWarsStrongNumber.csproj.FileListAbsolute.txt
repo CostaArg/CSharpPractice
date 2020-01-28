@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\csharpPractice\codeWarsStrongNumber\codeWarsStrongNumber\bin\Debug\codeWarsStrongNumber.exe.config
+C:\Users\Costa\source\repos\csharpPractice\codeWarsStrongNumber\codeWarsStrongNumber\bin\Debug\codeWarsStrongNumber.exe
+C:\Users\Costa\source\repos\csharpPractice\codeWarsStrongNumber\codeWarsStrongNumber\bin\Debug\codeWarsStrongNumber.pdb
+C:\Users\Costa\source\repos\csharpPractice\codeWarsStrongNumber\codeWarsStrongNumber\obj\Debug\codeWarsStrongNumber.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\csharpPractice\codeWarsStrongNumber\codeWarsStrongNumber\obj\Debug\codeWarsStrongNumber.exe
+C:\Users\Costa\source\repos\csharpPractice\codeWarsStrongNumber\codeWarsStrongNumber\obj\Debug\codeWarsStrongNumber.pdb
