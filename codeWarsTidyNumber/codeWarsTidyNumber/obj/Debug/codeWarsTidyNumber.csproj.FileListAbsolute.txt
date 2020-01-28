@@ -1,0 +1,5 @@
+C:\Users\Costa\source\repos\csharpPractice\codeWarsTidyNumber\codeWarsTidyNumber\bin\Debug\codeWarsTidyNumber.exe.config
+C:\Users\Costa\source\repos\csharpPractice\codeWarsTidyNumber\codeWarsTidyNumber\bin\Debug\codeWarsTidyNumber.exe
+C:\Users\Costa\source\repos\csharpPractice\codeWarsTidyNumber\codeWarsTidyNumber\bin\Debug\codeWarsTidyNumber.pdb
+C:\Users\Costa\source\repos\csharpPractice\codeWarsTidyNumber\codeWarsTidyNumber\obj\Debug\codeWarsTidyNumber.exe
+C:\Users\Costa\source\repos\csharpPractice\codeWarsTidyNumber\codeWarsTidyNumber\obj\Debug\codeWarsTidyNumber.pdb

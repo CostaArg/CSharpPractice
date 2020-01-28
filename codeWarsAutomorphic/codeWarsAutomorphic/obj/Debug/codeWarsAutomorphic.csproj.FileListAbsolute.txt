@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\csharpPractice\codeWarsAutomorphic\codeWarsAutomorphic\bin\Debug\codeWarsAutomorphic.exe.config
+C:\Users\Costa\source\repos\csharpPractice\codeWarsAutomorphic\codeWarsAutomorphic\bin\Debug\codeWarsAutomorphic.exe
+C:\Users\Costa\source\repos\csharpPractice\codeWarsAutomorphic\codeWarsAutomorphic\bin\Debug\codeWarsAutomorphic.pdb
+C:\Users\Costa\source\repos\csharpPractice\codeWarsAutomorphic\codeWarsAutomorphic\obj\Debug\codeWarsAutomorphic.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\csharpPractice\codeWarsAutomorphic\codeWarsAutomorphic\obj\Debug\codeWarsAutomorphic.exe
+C:\Users\Costa\source\repos\csharpPractice\codeWarsAutomorphic\codeWarsAutomorphic\obj\Debug\codeWarsAutomorphic.pdb
