@@ -19,8 +19,6 @@ namespace codeWarsFindOccurances
     {
         public static int[] FindAll(int[] array, int n)
         {
-            // your code here
-
             List<int> integers = new List<int>();
 
             for (int i = 0; i < array.Length; i++)
@@ -30,7 +28,6 @@ namespace codeWarsFindOccurances
             }
 
             int[] pinakas;
-
             pinakas = integers.ToArray();
 
             return pinakas;
