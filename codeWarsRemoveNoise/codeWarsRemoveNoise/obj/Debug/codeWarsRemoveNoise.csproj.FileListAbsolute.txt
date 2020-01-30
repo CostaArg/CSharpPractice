@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\csharpPractice\codeWarsRemoveNoise\codeWarsRemoveNoise\bin\Debug\codeWarsRemoveNoise.exe.config
+C:\Users\Costa\source\repos\csharpPractice\codeWarsRemoveNoise\codeWarsRemoveNoise\bin\Debug\codeWarsRemoveNoise.exe
+C:\Users\Costa\source\repos\csharpPractice\codeWarsRemoveNoise\codeWarsRemoveNoise\bin\Debug\codeWarsRemoveNoise.pdb
+C:\Users\Costa\source\repos\csharpPractice\codeWarsRemoveNoise\codeWarsRemoveNoise\obj\Debug\codeWarsRemoveNoise.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\csharpPractice\codeWarsRemoveNoise\codeWarsRemoveNoise\obj\Debug\codeWarsRemoveNoise.exe
+C:\Users\Costa\source\repos\csharpPractice\codeWarsRemoveNoise\codeWarsRemoveNoise\obj\Debug\codeWarsRemoveNoise.pdb
