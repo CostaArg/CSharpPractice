@@ -36,7 +36,7 @@ namespace projectFoitites
         {
             DateTime thisDate = new DateTime(2398, 12, 15);
             Foititis thanassis = new Foititis(20, "thanassis", 500.98, thisDate, "003040503");
-            Foititis.RaiseFee();
+            thanassis.RaiseFee(500);
         }
     }
 }

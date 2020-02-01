@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Costa\\source\\repos\\posoXrononEisai\\posoXrononEisai\\posoXrononEisai.csproj": {}
+    "C:\\Users\\Costa\\source\\repos\\csharpPractice\\posoXrononEisai\\posoXrononEisai\\posoXrononEisai.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Costa\\source\\repos\\posoXrononEisai\\posoXrononEisai\\posoXrononEisai.csproj": {
+    "C:\\Users\\Costa\\source\\repos\\csharpPractice\\posoXrononEisai\\posoXrononEisai\\posoXrononEisai.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Costa\\source\\repos\\posoXrononEisai\\posoXrononEisai\\posoXrononEisai.csproj",
+        "projectUniqueName": "C:\\Users\\Costa\\source\\repos\\csharpPractice\\posoXrononEisai\\posoXrononEisai\\posoXrononEisai.csproj",
         "projectName": "posoXrononEisai",
-        "projectPath": "C:\\Users\\Costa\\source\\repos\\posoXrononEisai\\posoXrononEisai\\posoXrononEisai.csproj",
+        "projectPath": "C:\\Users\\Costa\\source\\repos\\csharpPractice\\posoXrononEisai\\posoXrononEisai\\posoXrononEisai.csproj",
         "packagesPath": "C:\\Users\\Costa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Costa\\source\\repos\\posoXrononEisai\\posoXrononEisai\\obj\\",
+        "outputPath": "C:\\Users\\Costa\\source\\repos\\csharpPractice\\posoXrononEisai\\posoXrononEisai\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Costa\\AppData\\Roaming\\NuGet\\NuGet.Config",

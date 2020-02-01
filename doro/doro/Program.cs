@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace doro
+namespace gift
 {
 
 
@@ -87,20 +87,21 @@ namespace doro
     {
         static void Main(string[] args)
         {
-            Person thanassis = new Person("thanos", "mikroutsikos", 2109940596);
+            Person peter = new Person("peter", "palmer", 2109940596);
 
-            Person giannis = new Person();
-            giannis.setName("giannis");
-            giannis.setSurname("apostolopoulos");
-            giannis.setPhonenumber(399584);
+            Person john = new Person();
+            john.setName("john");
+            john.setSurname("brown");
+            john.setPhonenumber(399584);
 
-            Person giannis2 = new Person();
-            giannis2.setName(giannis.getName());
+            Person john2 = new Person();
+            john2.setName(john.getName());
 
-            giannis2.setSurname(Console.ReadLine());
+            Console.WriteLine("Enter " + john2.getName() + "'s surname: ");
+            john2.setSurname(Console.ReadLine());
 
-            Present tileorasi = new Present(thanassis, 899.99);
-            tileorasi.print();
+            Present television = new Present(peter, 899.99);
+            television.print();
         }
 
     }
