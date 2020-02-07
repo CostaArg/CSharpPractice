@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\mathimaLinq\mathimaLinq\bin\Debug\mathimaLinq.exe.config
+C:\Users\Costa\source\repos\mathimaLinq\mathimaLinq\bin\Debug\mathimaLinq.exe
+C:\Users\Costa\source\repos\mathimaLinq\mathimaLinq\bin\Debug\mathimaLinq.pdb
+C:\Users\Costa\source\repos\mathimaLinq\mathimaLinq\obj\Debug\mathimaLinq.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\mathimaLinq\mathimaLinq\obj\Debug\mathimaLinq.exe
+C:\Users\Costa\source\repos\mathimaLinq\mathimaLinq\obj\Debug\mathimaLinq.pdb

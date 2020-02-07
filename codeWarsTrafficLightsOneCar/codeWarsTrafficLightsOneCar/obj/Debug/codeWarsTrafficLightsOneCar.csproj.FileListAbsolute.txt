@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\codeWarsTrafficLightsOneCar\codeWarsTrafficLightsOneCar\bin\Debug\codeWarsTrafficLightsOneCar.exe.config
+C:\Users\Costa\source\repos\codeWarsTrafficLightsOneCar\codeWarsTrafficLightsOneCar\bin\Debug\codeWarsTrafficLightsOneCar.exe
+C:\Users\Costa\source\repos\codeWarsTrafficLightsOneCar\codeWarsTrafficLightsOneCar\bin\Debug\codeWarsTrafficLightsOneCar.pdb
+C:\Users\Costa\source\repos\codeWarsTrafficLightsOneCar\codeWarsTrafficLightsOneCar\obj\Debug\codeWarsTrafficLightsOneCar.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\codeWarsTrafficLightsOneCar\codeWarsTrafficLightsOneCar\obj\Debug\codeWarsTrafficLightsOneCar.exe
+C:\Users\Costa\source\repos\codeWarsTrafficLightsOneCar\codeWarsTrafficLightsOneCar\obj\Debug\codeWarsTrafficLightsOneCar.pdb

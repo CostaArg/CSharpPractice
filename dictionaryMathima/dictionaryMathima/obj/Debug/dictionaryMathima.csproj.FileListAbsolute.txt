@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\dictionaryMathima\dictionaryMathima\bin\Debug\dictionaryMathima.exe.config
+C:\Users\Costa\source\repos\dictionaryMathima\dictionaryMathima\bin\Debug\dictionaryMathima.exe
+C:\Users\Costa\source\repos\dictionaryMathima\dictionaryMathima\bin\Debug\dictionaryMathima.pdb
+C:\Users\Costa\source\repos\dictionaryMathima\dictionaryMathima\obj\Debug\dictionaryMathima.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\dictionaryMathima\dictionaryMathima\obj\Debug\dictionaryMathima.exe
+C:\Users\Costa\source\repos\dictionaryMathima\dictionaryMathima\obj\Debug\dictionaryMathima.pdb

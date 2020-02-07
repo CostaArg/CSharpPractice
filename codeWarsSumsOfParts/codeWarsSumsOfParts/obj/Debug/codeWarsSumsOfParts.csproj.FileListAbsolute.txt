@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\codeWarsSumsOfParts\codeWarsSumsOfParts\bin\Debug\codeWarsSumsOfParts.exe.config
+C:\Users\Costa\source\repos\codeWarsSumsOfParts\codeWarsSumsOfParts\bin\Debug\codeWarsSumsOfParts.exe
+C:\Users\Costa\source\repos\codeWarsSumsOfParts\codeWarsSumsOfParts\bin\Debug\codeWarsSumsOfParts.pdb
+C:\Users\Costa\source\repos\codeWarsSumsOfParts\codeWarsSumsOfParts\obj\Debug\codeWarsSumsOfParts.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\codeWarsSumsOfParts\codeWarsSumsOfParts\obj\Debug\codeWarsSumsOfParts.exe
+C:\Users\Costa\source\repos\codeWarsSumsOfParts\codeWarsSumsOfParts\obj\Debug\codeWarsSumsOfParts.pdb

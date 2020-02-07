@@ -1,0 +1,6 @@
+C:\Users\Costa\source\repos\codeWarsSumOfDigitsRecursive\codeWarsSumOfDigitsRecursive\bin\Debug\codeWarsSumOfDigitsRecursive.exe.config
+C:\Users\Costa\source\repos\codeWarsSumOfDigitsRecursive\codeWarsSumOfDigitsRecursive\bin\Debug\codeWarsSumOfDigitsRecursive.exe
+C:\Users\Costa\source\repos\codeWarsSumOfDigitsRecursive\codeWarsSumOfDigitsRecursive\bin\Debug\codeWarsSumOfDigitsRecursive.pdb
+C:\Users\Costa\source\repos\codeWarsSumOfDigitsRecursive\codeWarsSumOfDigitsRecursive\obj\Debug\codeWarsSumOfDigitsRecursive.csprojAssemblyReference.cache
+C:\Users\Costa\source\repos\codeWarsSumOfDigitsRecursive\codeWarsSumOfDigitsRecursive\obj\Debug\codeWarsSumOfDigitsRecursive.exe
+C:\Users\Costa\source\repos\codeWarsSumOfDigitsRecursive\codeWarsSumOfDigitsRecursive\obj\Debug\codeWarsSumOfDigitsRecursive.pdb
