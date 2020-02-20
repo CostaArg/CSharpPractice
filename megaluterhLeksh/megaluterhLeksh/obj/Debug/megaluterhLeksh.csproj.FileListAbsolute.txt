@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\megaluterhLeksh\megaluterhLeksh\bin\Debug\megaluterhLeksh.exe.config
-C:\Users\Costa\source\repos\megaluterhLeksh\megaluterhLeksh\bin\Debug\megaluterhLeksh.exe
-C:\Users\Costa\source\repos\megaluterhLeksh\megaluterhLeksh\bin\Debug\megaluterhLeksh.pdb
-C:\Users\Costa\source\repos\megaluterhLeksh\megaluterhLeksh\obj\Debug\megaluterhLeksh.exe
-C:\Users\Costa\source\repos\megaluterhLeksh\megaluterhLeksh\obj\Debug\megaluterhLeksh.pdb
-C:\Users\Costa\source\repos\megaluterhLeksh\megaluterhLeksh\obj\Debug\megaluterhLeksh.csprojAssemblyReference.cache

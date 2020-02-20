@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\posoXrononVersion2\posoXrononVersion2\bin\Debug\posoXrononVersion2.exe.config
-C:\Users\Costa\source\repos\posoXrononVersion2\posoXrononVersion2\bin\Debug\posoXrononVersion2.exe
-C:\Users\Costa\source\repos\posoXrononVersion2\posoXrononVersion2\bin\Debug\posoXrononVersion2.pdb
-C:\Users\Costa\source\repos\posoXrononVersion2\posoXrononVersion2\obj\Debug\posoXrononVersion2.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\posoXrononVersion2\posoXrononVersion2\obj\Debug\posoXrononVersion2.exe
-C:\Users\Costa\source\repos\posoXrononVersion2\posoXrononVersion2\obj\Debug\posoXrononVersion2.pdb

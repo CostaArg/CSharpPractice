@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\csharpPractice\codeWarsAreTheyTheSame\codeWarsAreTheyTheSame\bin\Debug\codeWarsAreTheyTheSame.exe.config
-C:\Users\Costa\source\repos\csharpPractice\codeWarsAreTheyTheSame\codeWarsAreTheyTheSame\bin\Debug\codeWarsAreTheyTheSame.exe
-C:\Users\Costa\source\repos\csharpPractice\codeWarsAreTheyTheSame\codeWarsAreTheyTheSame\bin\Debug\codeWarsAreTheyTheSame.pdb
-C:\Users\Costa\source\repos\csharpPractice\codeWarsAreTheyTheSame\codeWarsAreTheyTheSame\obj\Debug\codeWarsAreTheyTheSame.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\csharpPractice\codeWarsAreTheyTheSame\codeWarsAreTheyTheSame\obj\Debug\codeWarsAreTheyTheSame.exe
-C:\Users\Costa\source\repos\csharpPractice\codeWarsAreTheyTheSame\codeWarsAreTheyTheSame\obj\Debug\codeWarsAreTheyTheSame.pdb

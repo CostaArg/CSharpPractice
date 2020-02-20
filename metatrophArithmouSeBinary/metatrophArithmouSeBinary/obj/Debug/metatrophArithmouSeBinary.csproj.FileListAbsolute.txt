@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\metatrophArithmouSeBinary\metatrophArithmouSeBinary\bin\Debug\metatrophArithmouSeBinary.exe.config
-C:\Users\Costa\source\repos\metatrophArithmouSeBinary\metatrophArithmouSeBinary\bin\Debug\metatrophArithmouSeBinary.exe
-C:\Users\Costa\source\repos\metatrophArithmouSeBinary\metatrophArithmouSeBinary\bin\Debug\metatrophArithmouSeBinary.pdb
-C:\Users\Costa\source\repos\metatrophArithmouSeBinary\metatrophArithmouSeBinary\obj\Debug\metatrophArithmouSeBinary.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\metatrophArithmouSeBinary\metatrophArithmouSeBinary\obj\Debug\metatrophArithmouSeBinary.exe
-C:\Users\Costa\source\repos\metatrophArithmouSeBinary\metatrophArithmouSeBinary\obj\Debug\metatrophArithmouSeBinary.pdb

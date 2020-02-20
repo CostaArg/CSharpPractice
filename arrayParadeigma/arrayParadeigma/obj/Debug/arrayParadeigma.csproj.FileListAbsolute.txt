@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\arrayParadeigma\arrayParadeigma\obj\Debug\arrayParadeigma.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\arrayParadeigma\arrayParadeigma\bin\Debug\arrayParadeigma.exe.config
-C:\Users\Costa\source\repos\arrayParadeigma\arrayParadeigma\bin\Debug\arrayParadeigma.exe
-C:\Users\Costa\source\repos\arrayParadeigma\arrayParadeigma\bin\Debug\arrayParadeigma.pdb
-C:\Users\Costa\source\repos\arrayParadeigma\arrayParadeigma\obj\Debug\arrayParadeigma.exe
-C:\Users\Costa\source\repos\arrayParadeigma\arrayParadeigma\obj\Debug\arrayParadeigma.pdb

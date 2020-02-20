@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\poueinaitolathos\poueinaitolathos\bin\Debug\poueinaitolathos.exe.config
-C:\Users\Costa\source\repos\poueinaitolathos\poueinaitolathos\bin\Debug\poueinaitolathos.exe
-C:\Users\Costa\source\repos\poueinaitolathos\poueinaitolathos\bin\Debug\poueinaitolathos.pdb
-C:\Users\Costa\source\repos\poueinaitolathos\poueinaitolathos\obj\Debug\poueinaitolathos.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\poueinaitolathos\poueinaitolathos\obj\Debug\poueinaitolathos.exe
-C:\Users\Costa\source\repos\poueinaitolathos\poueinaitolathos\obj\Debug\poueinaitolathos.pdb

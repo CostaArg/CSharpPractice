@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\projectPingPong\projectPingPong\bin\Debug\projectPingPong.exe.config
-C:\Users\Costa\source\repos\projectPingPong\projectPingPong\bin\Debug\projectPingPong.exe
-C:\Users\Costa\source\repos\projectPingPong\projectPingPong\bin\Debug\projectPingPong.pdb
-C:\Users\Costa\source\repos\projectPingPong\projectPingPong\obj\Debug\projectPingPong.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\projectPingPong\projectPingPong\obj\Debug\projectPingPong.exe
-C:\Users\Costa\source\repos\projectPingPong\projectPingPong\obj\Debug\projectPingPong.pdb

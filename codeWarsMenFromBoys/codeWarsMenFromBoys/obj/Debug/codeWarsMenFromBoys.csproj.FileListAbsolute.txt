@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\csharpPractice\codeWarsMenFromBoys\codeWarsMenFromBoys\bin\Debug\codeWarsMenFromBoys.exe.config
-C:\Users\Costa\source\repos\csharpPractice\codeWarsMenFromBoys\codeWarsMenFromBoys\bin\Debug\codeWarsMenFromBoys.exe
-C:\Users\Costa\source\repos\csharpPractice\codeWarsMenFromBoys\codeWarsMenFromBoys\bin\Debug\codeWarsMenFromBoys.pdb
-C:\Users\Costa\source\repos\csharpPractice\codeWarsMenFromBoys\codeWarsMenFromBoys\obj\Debug\codeWarsMenFromBoys.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\csharpPractice\codeWarsMenFromBoys\codeWarsMenFromBoys\obj\Debug\codeWarsMenFromBoys.exe
-C:\Users\Costa\source\repos\csharpPractice\codeWarsMenFromBoys\codeWarsMenFromBoys\obj\Debug\codeWarsMenFromBoys.pdb

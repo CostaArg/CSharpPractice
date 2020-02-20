@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\codeWarsDecimalToBinary\codeWarsDecimalToBinary\obj\Debug\codeWarsDecimalToBinary.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\codeWarsDecimalToBinary\codeWarsDecimalToBinary\bin\Debug\codeWarsDecimalToBinary.exe.config
-C:\Users\Costa\source\repos\codeWarsDecimalToBinary\codeWarsDecimalToBinary\bin\Debug\codeWarsDecimalToBinary.exe
-C:\Users\Costa\source\repos\codeWarsDecimalToBinary\codeWarsDecimalToBinary\bin\Debug\codeWarsDecimalToBinary.pdb
-C:\Users\Costa\source\repos\codeWarsDecimalToBinary\codeWarsDecimalToBinary\obj\Debug\codeWarsDecimalToBinary.exe
-C:\Users\Costa\source\repos\codeWarsDecimalToBinary\codeWarsDecimalToBinary\obj\Debug\codeWarsDecimalToBinary.pdb

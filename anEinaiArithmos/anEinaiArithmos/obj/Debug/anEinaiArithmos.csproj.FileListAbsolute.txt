@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\anEinaiArithmos\anEinaiArithmos\bin\Debug\anEinaiArithmos.exe.config
-C:\Users\Costa\source\repos\anEinaiArithmos\anEinaiArithmos\bin\Debug\anEinaiArithmos.exe
-C:\Users\Costa\source\repos\anEinaiArithmos\anEinaiArithmos\bin\Debug\anEinaiArithmos.pdb
-C:\Users\Costa\source\repos\anEinaiArithmos\anEinaiArithmos\obj\Debug\anEinaiArithmos.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\anEinaiArithmos\anEinaiArithmos\obj\Debug\anEinaiArithmos.exe
-C:\Users\Costa\source\repos\anEinaiArithmos\anEinaiArithmos\obj\Debug\anEinaiArithmos.pdb

@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\codeWarsSupersize\codeWarsSupersize\bin\Debug\codeWarsSupersize.exe.config
-C:\Users\Costa\source\repos\codeWarsSupersize\codeWarsSupersize\bin\Debug\codeWarsSupersize.exe
-C:\Users\Costa\source\repos\codeWarsSupersize\codeWarsSupersize\bin\Debug\codeWarsSupersize.pdb
-C:\Users\Costa\source\repos\codeWarsSupersize\codeWarsSupersize\obj\Debug\codeWarsSupersize.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\codeWarsSupersize\codeWarsSupersize\obj\Debug\codeWarsSupersize.exe
-C:\Users\Costa\source\repos\codeWarsSupersize\codeWarsSupersize\obj\Debug\codeWarsSupersize.pdb

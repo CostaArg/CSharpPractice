@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\chessMasterMeMonosdiastato\chessMasterMeMonosdiastato\bin\Debug\chessMasterMeMonosdiastato.exe.config
-C:\Users\Costa\source\repos\chessMasterMeMonosdiastato\chessMasterMeMonosdiastato\bin\Debug\chessMasterMeMonosdiastato.exe
-C:\Users\Costa\source\repos\chessMasterMeMonosdiastato\chessMasterMeMonosdiastato\bin\Debug\chessMasterMeMonosdiastato.pdb
-C:\Users\Costa\source\repos\chessMasterMeMonosdiastato\chessMasterMeMonosdiastato\obj\Debug\chessMasterMeMonosdiastato.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\chessMasterMeMonosdiastato\chessMasterMeMonosdiastato\obj\Debug\chessMasterMeMonosdiastato.exe
-C:\Users\Costa\source\repos\chessMasterMeMonosdiastato\chessMasterMeMonosdiastato\obj\Debug\chessMasterMeMonosdiastato.pdb

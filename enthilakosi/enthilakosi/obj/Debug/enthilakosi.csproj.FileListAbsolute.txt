@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\enthilakosi\enthilakosi\bin\Debug\enthilakosi.exe.config
-C:\Users\Costa\source\repos\enthilakosi\enthilakosi\bin\Debug\enthilakosi.exe
-C:\Users\Costa\source\repos\enthilakosi\enthilakosi\bin\Debug\enthilakosi.pdb
-C:\Users\Costa\source\repos\enthilakosi\enthilakosi\obj\Debug\enthilakosi.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\enthilakosi\enthilakosi\obj\Debug\enthilakosi.exe
-C:\Users\Costa\source\repos\enthilakosi\enthilakosi\obj\Debug\enthilakosi.pdb

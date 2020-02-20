@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\ShirtApp\ShirtApp\bin\Debug\ShirtApp.exe.config
-C:\Users\Costa\source\repos\ShirtApp\ShirtApp\bin\Debug\ShirtApp.exe
-C:\Users\Costa\source\repos\ShirtApp\ShirtApp\bin\Debug\ShirtApp.pdb
-C:\Users\Costa\source\repos\ShirtApp\ShirtApp\obj\Debug\ShirtApp.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\ShirtApp\ShirtApp\obj\Debug\ShirtApp.exe
-C:\Users\Costa\source\repos\ShirtApp\ShirtApp\obj\Debug\ShirtApp.pdb

@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\projectRoleplayVer2\projectRoleplayVer2\bin\Debug\projectRoleplayVer2.exe.config
-C:\Users\Costa\source\repos\projectRoleplayVer2\projectRoleplayVer2\bin\Debug\projectRoleplayVer2.exe
-C:\Users\Costa\source\repos\projectRoleplayVer2\projectRoleplayVer2\bin\Debug\projectRoleplayVer2.pdb
-C:\Users\Costa\source\repos\projectRoleplayVer2\projectRoleplayVer2\obj\Debug\projectRoleplayVer2.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\projectRoleplayVer2\projectRoleplayVer2\obj\Debug\projectRoleplayVer2.exe
-C:\Users\Costa\source\repos\projectRoleplayVer2\projectRoleplayVer2\obj\Debug\projectRoleplayVer2.pdb

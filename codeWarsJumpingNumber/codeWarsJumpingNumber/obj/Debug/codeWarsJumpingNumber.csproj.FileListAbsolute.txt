@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\codeWarsJumpingNumber\codeWarsJumpingNumber\bin\Debug\codeWarsJumpingNumber.exe.config
-C:\Users\Costa\source\repos\codeWarsJumpingNumber\codeWarsJumpingNumber\bin\Debug\codeWarsJumpingNumber.exe
-C:\Users\Costa\source\repos\codeWarsJumpingNumber\codeWarsJumpingNumber\bin\Debug\codeWarsJumpingNumber.pdb
-C:\Users\Costa\source\repos\codeWarsJumpingNumber\codeWarsJumpingNumber\obj\Debug\codeWarsJumpingNumber.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\codeWarsJumpingNumber\codeWarsJumpingNumber\obj\Debug\codeWarsJumpingNumber.exe
-C:\Users\Costa\source\repos\codeWarsJumpingNumber\codeWarsJumpingNumber\obj\Debug\codeWarsJumpingNumber.pdb

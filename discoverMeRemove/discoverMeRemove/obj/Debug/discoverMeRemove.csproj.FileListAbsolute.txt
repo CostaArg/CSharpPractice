@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\discoverMeRemove\discoverMeRemove\bin\Debug\discoverMeRemove.exe.config
-C:\Users\Costa\source\repos\discoverMeRemove\discoverMeRemove\bin\Debug\discoverMeRemove.exe
-C:\Users\Costa\source\repos\discoverMeRemove\discoverMeRemove\bin\Debug\discoverMeRemove.pdb
-C:\Users\Costa\source\repos\discoverMeRemove\discoverMeRemove\obj\Debug\discoverMeRemove.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\discoverMeRemove\discoverMeRemove\obj\Debug\discoverMeRemove.exe
-C:\Users\Costa\source\repos\discoverMeRemove\discoverMeRemove\obj\Debug\discoverMeRemove.pdb

@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\Discover\Discover\obj\Debug\Discover.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\Discover\Discover\bin\Debug\Discover.exe.config
-C:\Users\Costa\source\repos\Discover\Discover\bin\Debug\Discover.exe
-C:\Users\Costa\source\repos\Discover\Discover\bin\Debug\Discover.pdb
-C:\Users\Costa\source\repos\Discover\Discover\obj\Debug\Discover.exe
-C:\Users\Costa\source\repos\Discover\Discover\obj\Debug\Discover.pdb

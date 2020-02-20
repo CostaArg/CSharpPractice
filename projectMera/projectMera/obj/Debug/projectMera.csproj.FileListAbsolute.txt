@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\projectMera\projectMera\bin\Debug\projectMera.exe.config
-C:\Users\Costa\source\repos\projectMera\projectMera\bin\Debug\projectMera.exe
-C:\Users\Costa\source\repos\projectMera\projectMera\bin\Debug\projectMera.pdb
-C:\Users\Costa\source\repos\projectMera\projectMera\obj\Debug\projectMera.exe
-C:\Users\Costa\source\repos\projectMera\projectMera\obj\Debug\projectMera.pdb
-C:\Users\Costa\source\repos\projectMera\projectMera\obj\Debug\projectMera.csprojAssemblyReference.cache

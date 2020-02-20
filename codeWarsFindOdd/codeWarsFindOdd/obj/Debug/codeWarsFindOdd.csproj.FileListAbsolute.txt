@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\codeWarsFindOdd\codeWarsFindOdd\obj\Debug\codeWarsFindOdd.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\codeWarsFindOdd\codeWarsFindOdd\bin\Debug\codeWarsFindOdd.exe.config
-C:\Users\Costa\source\repos\codeWarsFindOdd\codeWarsFindOdd\bin\Debug\codeWarsFindOdd.exe
-C:\Users\Costa\source\repos\codeWarsFindOdd\codeWarsFindOdd\bin\Debug\codeWarsFindOdd.pdb
-C:\Users\Costa\source\repos\codeWarsFindOdd\codeWarsFindOdd\obj\Debug\codeWarsFindOdd.exe
-C:\Users\Costa\source\repos\codeWarsFindOdd\codeWarsFindOdd\obj\Debug\codeWarsFindOdd.pdb

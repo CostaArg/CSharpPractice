@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\testing\testing\bin\Debug\testing.exe.config
-C:\Users\Costa\source\repos\testing\testing\bin\Debug\testing.exe
-C:\Users\Costa\source\repos\testing\testing\bin\Debug\testing.pdb
-C:\Users\Costa\source\repos\testing\testing\obj\Debug\testing.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\testing\testing\obj\Debug\testing.exe
-C:\Users\Costa\source\repos\testing\testing\obj\Debug\testing.pdb

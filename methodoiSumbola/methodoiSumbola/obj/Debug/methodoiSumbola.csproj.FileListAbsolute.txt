@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\methodoiSumbola\methodoiSumbola\bin\Debug\methodoiSumbola.exe.config
-C:\Users\Costa\source\repos\methodoiSumbola\methodoiSumbola\bin\Debug\methodoiSumbola.exe
-C:\Users\Costa\source\repos\methodoiSumbola\methodoiSumbola\bin\Debug\methodoiSumbola.pdb
-C:\Users\Costa\source\repos\methodoiSumbola\methodoiSumbola\obj\Debug\methodoiSumbola.exe
-C:\Users\Costa\source\repos\methodoiSumbola\methodoiSumbola\obj\Debug\methodoiSumbola.pdb
-C:\Users\Costa\source\repos\methodoiSumbola\methodoiSumbola\obj\Debug\methodoiSumbola.csprojAssemblyReference.cache

@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\codeWarsMumbling\codeWarsMumbling\bin\Debug\codeWarsMumbling.exe.config
-C:\Users\Costa\source\repos\codeWarsMumbling\codeWarsMumbling\bin\Debug\codeWarsMumbling.exe
-C:\Users\Costa\source\repos\codeWarsMumbling\codeWarsMumbling\bin\Debug\codeWarsMumbling.pdb
-C:\Users\Costa\source\repos\codeWarsMumbling\codeWarsMumbling\obj\Debug\codeWarsMumbling.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\codeWarsMumbling\codeWarsMumbling\obj\Debug\codeWarsMumbling.exe
-C:\Users\Costa\source\repos\codeWarsMumbling\codeWarsMumbling\obj\Debug\codeWarsMumbling.pdb

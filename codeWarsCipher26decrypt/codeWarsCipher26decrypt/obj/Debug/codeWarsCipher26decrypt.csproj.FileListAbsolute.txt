@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\csharpPractice\codeWarsCipher26decrypt\codeWarsCipher26decrypt\obj\Debug\codeWarsCipher26decrypt.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\csharpPractice\codeWarsCipher26decrypt\codeWarsCipher26decrypt\bin\Debug\codeWarsCipher26decrypt.exe.config
-C:\Users\Costa\source\repos\csharpPractice\codeWarsCipher26decrypt\codeWarsCipher26decrypt\bin\Debug\codeWarsCipher26decrypt.exe
-C:\Users\Costa\source\repos\csharpPractice\codeWarsCipher26decrypt\codeWarsCipher26decrypt\bin\Debug\codeWarsCipher26decrypt.pdb
-C:\Users\Costa\source\repos\csharpPractice\codeWarsCipher26decrypt\codeWarsCipher26decrypt\obj\Debug\codeWarsCipher26decrypt.exe
-C:\Users\Costa\source\repos\csharpPractice\codeWarsCipher26decrypt\codeWarsCipher26decrypt\obj\Debug\codeWarsCipher26decrypt.pdb

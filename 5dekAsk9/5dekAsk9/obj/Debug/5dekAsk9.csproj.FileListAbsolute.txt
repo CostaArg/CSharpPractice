@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\5dekAsk9\5dekAsk9\obj\Debug\5dekAsk9.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\5dekAsk9\5dekAsk9\bin\Debug\5dekAsk9.exe.config
-C:\Users\Costa\source\repos\5dekAsk9\5dekAsk9\bin\Debug\5dekAsk9.exe
-C:\Users\Costa\source\repos\5dekAsk9\5dekAsk9\bin\Debug\5dekAsk9.pdb
-C:\Users\Costa\source\repos\5dekAsk9\5dekAsk9\obj\Debug\5dekAsk9.exe
-C:\Users\Costa\source\repos\5dekAsk9\5dekAsk9\obj\Debug\5dekAsk9.pdb

@@ -1,5 +1,0 @@
-C:\Users\Costa\source\repos\csharpPractice\codeWarsDisarium\codeWarsDisarium\bin\Debug\codeWarsDisarium.exe.config
-C:\Users\Costa\source\repos\csharpPractice\codeWarsDisarium\codeWarsDisarium\bin\Debug\codeWarsDisarium.exe
-C:\Users\Costa\source\repos\csharpPractice\codeWarsDisarium\codeWarsDisarium\bin\Debug\codeWarsDisarium.pdb
-C:\Users\Costa\source\repos\csharpPractice\codeWarsDisarium\codeWarsDisarium\obj\Debug\codeWarsDisarium.exe
-C:\Users\Costa\source\repos\csharpPractice\codeWarsDisarium\codeWarsDisarium\obj\Debug\codeWarsDisarium.pdb

@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\ConsoleApp9\studyInheritance\bin\Debug\studyInheritance.exe.config
-C:\Users\Costa\source\repos\ConsoleApp9\studyInheritance\bin\Debug\studyInheritance.exe
-C:\Users\Costa\source\repos\ConsoleApp9\studyInheritance\bin\Debug\studyInheritance.pdb
-C:\Users\Costa\source\repos\ConsoleApp9\studyInheritance\obj\Debug\studyInheritance.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\ConsoleApp9\studyInheritance\obj\Debug\studyInheritance.exe
-C:\Users\Costa\source\repos\ConsoleApp9\studyInheritance\obj\Debug\studyInheritance.pdb

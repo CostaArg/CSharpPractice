@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\codeWarsBinaryConversion\codeWarsBinaryConversion\bin\Debug\codeWarsBinaryConversion.exe.config
-C:\Users\Costa\source\repos\codeWarsBinaryConversion\codeWarsBinaryConversion\bin\Debug\codeWarsBinaryConversion.exe
-C:\Users\Costa\source\repos\codeWarsBinaryConversion\codeWarsBinaryConversion\bin\Debug\codeWarsBinaryConversion.pdb
-C:\Users\Costa\source\repos\codeWarsBinaryConversion\codeWarsBinaryConversion\obj\Debug\codeWarsBinaryConversion.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\codeWarsBinaryConversion\codeWarsBinaryConversion\obj\Debug\codeWarsBinaryConversion.exe
-C:\Users\Costa\source\repos\codeWarsBinaryConversion\codeWarsBinaryConversion\obj\Debug\codeWarsBinaryConversion.pdb

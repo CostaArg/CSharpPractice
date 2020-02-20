@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\forPrwtaTeleutaia\forPrwtaTeleutaia\bin\Debug\forPrwtaTeleutaia.exe.config
-C:\Users\Costa\source\repos\forPrwtaTeleutaia\forPrwtaTeleutaia\bin\Debug\forPrwtaTeleutaia.exe
-C:\Users\Costa\source\repos\forPrwtaTeleutaia\forPrwtaTeleutaia\bin\Debug\forPrwtaTeleutaia.pdb
-C:\Users\Costa\source\repos\forPrwtaTeleutaia\forPrwtaTeleutaia\obj\Debug\forPrwtaTeleutaia.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\forPrwtaTeleutaia\forPrwtaTeleutaia\obj\Debug\forPrwtaTeleutaia.exe
-C:\Users\Costa\source\repos\forPrwtaTeleutaia\forPrwtaTeleutaia\obj\Debug\forPrwtaTeleutaia.pdb

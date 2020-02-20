@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\codeWarsBalancedNumber\codeWarsBalancedNumber\bin\Debug\codeWarsBalancedNumber.exe.config
-C:\Users\Costa\source\repos\codeWarsBalancedNumber\codeWarsBalancedNumber\bin\Debug\codeWarsBalancedNumber.exe
-C:\Users\Costa\source\repos\codeWarsBalancedNumber\codeWarsBalancedNumber\bin\Debug\codeWarsBalancedNumber.pdb
-C:\Users\Costa\source\repos\codeWarsBalancedNumber\codeWarsBalancedNumber\obj\Debug\codeWarsBalancedNumber.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\codeWarsBalancedNumber\codeWarsBalancedNumber\obj\Debug\codeWarsBalancedNumber.exe
-C:\Users\Costa\source\repos\codeWarsBalancedNumber\codeWarsBalancedNumber\obj\Debug\codeWarsBalancedNumber.pdb

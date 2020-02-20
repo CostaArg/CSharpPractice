@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\codeWarsSumOfNumbers\codeWarsSumOfNumbers\bin\Debug\codeWarsSumOfNumbers.exe.config
-C:\Users\Costa\source\repos\codeWarsSumOfNumbers\codeWarsSumOfNumbers\bin\Debug\codeWarsSumOfNumbers.exe
-C:\Users\Costa\source\repos\codeWarsSumOfNumbers\codeWarsSumOfNumbers\bin\Debug\codeWarsSumOfNumbers.pdb
-C:\Users\Costa\source\repos\codeWarsSumOfNumbers\codeWarsSumOfNumbers\obj\Debug\codeWarsSumOfNumbers.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\codeWarsSumOfNumbers\codeWarsSumOfNumbers\obj\Debug\codeWarsSumOfNumbers.exe
-C:\Users\Costa\source\repos\codeWarsSumOfNumbers\codeWarsSumOfNumbers\obj\Debug\codeWarsSumOfNumbers.pdb

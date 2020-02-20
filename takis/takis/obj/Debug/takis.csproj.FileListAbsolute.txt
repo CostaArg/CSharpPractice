@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\takis\takis\bin\Debug\takis.exe.config
-C:\Users\Costa\source\repos\takis\takis\bin\Debug\takis.exe
-C:\Users\Costa\source\repos\takis\takis\bin\Debug\takis.pdb
-C:\Users\Costa\source\repos\takis\takis\obj\Debug\takis.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\takis\takis\obj\Debug\takis.exe
-C:\Users\Costa\source\repos\takis\takis\obj\Debug\takis.pdb

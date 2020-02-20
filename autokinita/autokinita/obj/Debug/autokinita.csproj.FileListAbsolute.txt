@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\autokinita\autokinita\bin\Debug\autokinita.exe.config
-C:\Users\Costa\source\repos\autokinita\autokinita\bin\Debug\autokinita.exe
-C:\Users\Costa\source\repos\autokinita\autokinita\bin\Debug\autokinita.pdb
-C:\Users\Costa\source\repos\autokinita\autokinita\obj\Debug\autokinita.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\autokinita\autokinita\obj\Debug\autokinita.exe
-C:\Users\Costa\source\repos\autokinita\autokinita\obj\Debug\autokinita.pdb

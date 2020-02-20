@@ -1,5 +1,0 @@
-C:\Users\Costa\source\repos\codeWarsRangeOfIntegers\codeWarsRangeOfIntegers\bin\Debug\codeWarsRangeOfIntegers.exe.config
-C:\Users\Costa\source\repos\codeWarsRangeOfIntegers\codeWarsRangeOfIntegers\bin\Debug\codeWarsRangeOfIntegers.exe
-C:\Users\Costa\source\repos\codeWarsRangeOfIntegers\codeWarsRangeOfIntegers\bin\Debug\codeWarsRangeOfIntegers.pdb
-C:\Users\Costa\source\repos\codeWarsRangeOfIntegers\codeWarsRangeOfIntegers\obj\Debug\codeWarsRangeOfIntegers.exe
-C:\Users\Costa\source\repos\codeWarsRangeOfIntegers\codeWarsRangeOfIntegers\obj\Debug\codeWarsRangeOfIntegers.pdb

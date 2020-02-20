@@ -1,5 +1,0 @@
-C:\Users\Costa\source\repos\codeWarsStrongestNumber\codeWarsStrongestNumber\bin\Debug\codeWarsStrongestNumber.exe.config
-C:\Users\Costa\source\repos\codeWarsStrongestNumber\codeWarsStrongestNumber\bin\Debug\codeWarsStrongestNumber.exe
-C:\Users\Costa\source\repos\codeWarsStrongestNumber\codeWarsStrongestNumber\bin\Debug\codeWarsStrongestNumber.pdb
-C:\Users\Costa\source\repos\codeWarsStrongestNumber\codeWarsStrongestNumber\obj\Debug\codeWarsStrongestNumber.exe
-C:\Users\Costa\source\repos\codeWarsStrongestNumber\codeWarsStrongestNumber\obj\Debug\codeWarsStrongestNumber.pdb

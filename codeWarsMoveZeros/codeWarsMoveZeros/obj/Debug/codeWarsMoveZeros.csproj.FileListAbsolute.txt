@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\csharpPractice\codeWarsMoveZeros\codeWarsMoveZeros\bin\Debug\codeWarsMoveZeros.exe.config
-C:\Users\Costa\source\repos\csharpPractice\codeWarsMoveZeros\codeWarsMoveZeros\bin\Debug\codeWarsMoveZeros.exe
-C:\Users\Costa\source\repos\csharpPractice\codeWarsMoveZeros\codeWarsMoveZeros\bin\Debug\codeWarsMoveZeros.pdb
-C:\Users\Costa\source\repos\csharpPractice\codeWarsMoveZeros\codeWarsMoveZeros\obj\Debug\codeWarsMoveZeros.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\csharpPractice\codeWarsMoveZeros\codeWarsMoveZeros\obj\Debug\codeWarsMoveZeros.exe
-C:\Users\Costa\source\repos\csharpPractice\codeWarsMoveZeros\codeWarsMoveZeros\obj\Debug\codeWarsMoveZeros.pdb

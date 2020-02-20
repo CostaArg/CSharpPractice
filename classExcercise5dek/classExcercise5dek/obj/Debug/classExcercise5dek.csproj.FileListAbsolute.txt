@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\classExcercise5dek\classExcercise5dek\obj\Debug\classExcercise5dek.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\classExcercise5dek\classExcercise5dek\bin\Debug\classExcercise5dek.exe.config
-C:\Users\Costa\source\repos\classExcercise5dek\classExcercise5dek\bin\Debug\classExcercise5dek.exe
-C:\Users\Costa\source\repos\classExcercise5dek\classExcercise5dek\bin\Debug\classExcercise5dek.pdb
-C:\Users\Costa\source\repos\classExcercise5dek\classExcercise5dek\obj\Debug\classExcercise5dek.exe
-C:\Users\Costa\source\repos\classExcercise5dek\classExcercise5dek\obj\Debug\classExcercise5dek.pdb

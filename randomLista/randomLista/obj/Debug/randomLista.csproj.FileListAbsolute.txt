@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\randomLista\randomLista\bin\Debug\randomLista.exe.config
-C:\Users\Costa\source\repos\randomLista\randomLista\bin\Debug\randomLista.exe
-C:\Users\Costa\source\repos\randomLista\randomLista\bin\Debug\randomLista.pdb
-C:\Users\Costa\source\repos\randomLista\randomLista\obj\Debug\randomLista.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\randomLista\randomLista\obj\Debug\randomLista.exe
-C:\Users\Costa\source\repos\randomLista\randomLista\obj\Debug\randomLista.pdb

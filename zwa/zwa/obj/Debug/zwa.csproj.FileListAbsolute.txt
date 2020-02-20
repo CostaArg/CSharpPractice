@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\zwa\zwa\bin\Debug\zwa.exe.config
-C:\Users\Costa\source\repos\zwa\zwa\bin\Debug\zwa.exe
-C:\Users\Costa\source\repos\zwa\zwa\bin\Debug\zwa.pdb
-C:\Users\Costa\source\repos\zwa\zwa\obj\Debug\zwa.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\zwa\zwa\obj\Debug\zwa.exe
-C:\Users\Costa\source\repos\zwa\zwa\obj\Debug\zwa.pdb

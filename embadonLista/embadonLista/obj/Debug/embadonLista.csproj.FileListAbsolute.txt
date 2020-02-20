@@ -1,5 +1,0 @@
-C:\Users\Costa\source\repos\embadonLista\embadonLista\bin\Debug\embadonLista.exe.config
-C:\Users\Costa\source\repos\embadonLista\embadonLista\bin\Debug\embadonLista.exe
-C:\Users\Costa\source\repos\embadonLista\embadonLista\bin\Debug\embadonLista.pdb
-C:\Users\Costa\source\repos\embadonLista\embadonLista\obj\Debug\embadonLista.exe
-C:\Users\Costa\source\repos\embadonLista\embadonLista\obj\Debug\embadonLista.pdb

@@ -1,5 +1,0 @@
-C:\Users\Costa\source\repos\codeWarsFirstMultiples2\codeWarsFirstMultiples2\bin\Debug\codeWarsFirstMultiples2.exe.config
-C:\Users\Costa\source\repos\codeWarsFirstMultiples2\codeWarsFirstMultiples2\bin\Debug\codeWarsFirstMultiples2.exe
-C:\Users\Costa\source\repos\codeWarsFirstMultiples2\codeWarsFirstMultiples2\bin\Debug\codeWarsFirstMultiples2.pdb
-C:\Users\Costa\source\repos\codeWarsFirstMultiples2\codeWarsFirstMultiples2\obj\Debug\codeWarsFirstMultiples2.exe
-C:\Users\Costa\source\repos\codeWarsFirstMultiples2\codeWarsFirstMultiples2\obj\Debug\codeWarsFirstMultiples2.pdb

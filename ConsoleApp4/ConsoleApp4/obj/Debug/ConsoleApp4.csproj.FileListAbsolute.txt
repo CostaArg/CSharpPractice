@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
-C:\Users\Costa\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
-C:\Users\Costa\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
-C:\Users\Costa\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
-C:\Users\Costa\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

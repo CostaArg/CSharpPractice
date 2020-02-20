@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\projectFrouta\projectFrouta\bin\Debug\projectFrouta.exe.config
-C:\Users\Costa\source\repos\projectFrouta\projectFrouta\bin\Debug\projectFrouta.exe
-C:\Users\Costa\source\repos\projectFrouta\projectFrouta\bin\Debug\projectFrouta.pdb
-C:\Users\Costa\source\repos\projectFrouta\projectFrouta\obj\Debug\projectFrouta.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\projectFrouta\projectFrouta\obj\Debug\projectFrouta.exe
-C:\Users\Costa\source\repos\projectFrouta\projectFrouta\obj\Debug\projectFrouta.pdb

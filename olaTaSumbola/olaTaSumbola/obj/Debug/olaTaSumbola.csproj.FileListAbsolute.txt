@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\olaTaSumbola\olaTaSumbola\bin\Debug\olaTaSumbola.exe.config
-C:\Users\Costa\source\repos\olaTaSumbola\olaTaSumbola\bin\Debug\olaTaSumbola.exe
-C:\Users\Costa\source\repos\olaTaSumbola\olaTaSumbola\bin\Debug\olaTaSumbola.pdb
-C:\Users\Costa\source\repos\olaTaSumbola\olaTaSumbola\obj\Debug\olaTaSumbola.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\olaTaSumbola\olaTaSumbola\obj\Debug\olaTaSumbola.exe
-C:\Users\Costa\source\repos\olaTaSumbola\olaTaSumbola\obj\Debug\olaTaSumbola.pdb

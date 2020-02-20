@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\shirtAppMeLista\shirtAppMeLista\bin\Debug\shirtAppMeLista.exe.config
-C:\Users\Costa\source\repos\shirtAppMeLista\shirtAppMeLista\bin\Debug\shirtAppMeLista.exe
-C:\Users\Costa\source\repos\shirtAppMeLista\shirtAppMeLista\bin\Debug\shirtAppMeLista.pdb
-C:\Users\Costa\source\repos\shirtAppMeLista\shirtAppMeLista\obj\Debug\shirtAppMeLista.exe
-C:\Users\Costa\source\repos\shirtAppMeLista\shirtAppMeLista\obj\Debug\shirtAppMeLista.pdb
-C:\Users\Costa\source\repos\shirtAppMeLista\shirtAppMeLista\obj\Debug\shirtAppMeLista.csprojAssemblyReference.cache

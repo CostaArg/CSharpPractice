@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\composition\composition\bin\Debug\composition.exe.config
-C:\Users\Costa\source\repos\composition\composition\bin\Debug\composition.exe
-C:\Users\Costa\source\repos\composition\composition\bin\Debug\composition.pdb
-C:\Users\Costa\source\repos\composition\composition\obj\Debug\composition.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\composition\composition\obj\Debug\composition.exe
-C:\Users\Costa\source\repos\composition\composition\obj\Debug\composition.pdb

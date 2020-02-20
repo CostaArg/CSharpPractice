@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\csharpPractice\codeWarsDrawStairs\codeWarsDrawStairs\bin\Debug\codeWarsDrawStairs.exe.config
-C:\Users\Costa\source\repos\csharpPractice\codeWarsDrawStairs\codeWarsDrawStairs\bin\Debug\codeWarsDrawStairs.exe
-C:\Users\Costa\source\repos\csharpPractice\codeWarsDrawStairs\codeWarsDrawStairs\bin\Debug\codeWarsDrawStairs.pdb
-C:\Users\Costa\source\repos\csharpPractice\codeWarsDrawStairs\codeWarsDrawStairs\obj\Debug\codeWarsDrawStairs.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\csharpPractice\codeWarsDrawStairs\codeWarsDrawStairs\obj\Debug\codeWarsDrawStairs.exe
-C:\Users\Costa\source\repos\csharpPractice\codeWarsDrawStairs\codeWarsDrawStairs\obj\Debug\codeWarsDrawStairs.pdb

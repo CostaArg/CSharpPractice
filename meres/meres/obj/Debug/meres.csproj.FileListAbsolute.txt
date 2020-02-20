@@ -1,5 +1,0 @@
-C:\Users\Costa\source\repos\meres\meres\bin\Debug\meres.exe.config
-C:\Users\Costa\source\repos\meres\meres\bin\Debug\meres.exe
-C:\Users\Costa\source\repos\meres\meres\bin\Debug\meres.pdb
-C:\Users\Costa\source\repos\meres\meres\obj\Debug\meres.exe
-C:\Users\Costa\source\repos\meres\meres\obj\Debug\meres.pdb

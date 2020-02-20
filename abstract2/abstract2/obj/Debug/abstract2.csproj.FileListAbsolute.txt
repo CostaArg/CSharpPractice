@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\abstract2\abstract2\bin\Debug\abstract2.exe.config
-C:\Users\Costa\source\repos\abstract2\abstract2\bin\Debug\abstract2.exe
-C:\Users\Costa\source\repos\abstract2\abstract2\bin\Debug\abstract2.pdb
-C:\Users\Costa\source\repos\abstract2\abstract2\obj\Debug\abstract2.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\abstract2\abstract2\obj\Debug\abstract2.exe
-C:\Users\Costa\source\repos\abstract2\abstract2\obj\Debug\abstract2.pdb

@@ -1,5 +1,0 @@
-C:\Users\Costa\source\repos\eksafanishAn8rwpoi\eksafanishAn8rwpoi\bin\Debug\eksafanishAn8rwpoi.exe.config
-C:\Users\Costa\source\repos\eksafanishAn8rwpoi\eksafanishAn8rwpoi\bin\Debug\eksafanishAn8rwpoi.exe
-C:\Users\Costa\source\repos\eksafanishAn8rwpoi\eksafanishAn8rwpoi\bin\Debug\eksafanishAn8rwpoi.pdb
-C:\Users\Costa\source\repos\eksafanishAn8rwpoi\eksafanishAn8rwpoi\obj\Debug\eksafanishAn8rwpoi.exe
-C:\Users\Costa\source\repos\eksafanishAn8rwpoi\eksafanishAn8rwpoi\obj\Debug\eksafanishAn8rwpoi.pdb

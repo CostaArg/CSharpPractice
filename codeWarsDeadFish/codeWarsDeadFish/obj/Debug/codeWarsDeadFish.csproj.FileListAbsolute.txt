@@ -1,5 +1,0 @@
-C:\Users\Costa\source\repos\codeWarsDeadFish\codeWarsDeadFish\bin\Debug\codeWarsDeadFish.exe.config
-C:\Users\Costa\source\repos\codeWarsDeadFish\codeWarsDeadFish\bin\Debug\codeWarsDeadFish.exe
-C:\Users\Costa\source\repos\codeWarsDeadFish\codeWarsDeadFish\bin\Debug\codeWarsDeadFish.pdb
-C:\Users\Costa\source\repos\codeWarsDeadFish\codeWarsDeadFish\obj\Debug\codeWarsDeadFish.exe
-C:\Users\Costa\source\repos\codeWarsDeadFish\codeWarsDeadFish\obj\Debug\codeWarsDeadFish.pdb

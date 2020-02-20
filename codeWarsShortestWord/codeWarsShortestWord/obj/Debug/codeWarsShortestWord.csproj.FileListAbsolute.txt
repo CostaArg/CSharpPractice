@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\codeWarsShortestWord\codeWarsShortestWord\obj\Debug\codeWarsShortestWord.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\codeWarsShortestWord\codeWarsShortestWord\bin\Debug\codeWarsShortestWord.exe.config
-C:\Users\Costa\source\repos\codeWarsShortestWord\codeWarsShortestWord\bin\Debug\codeWarsShortestWord.exe
-C:\Users\Costa\source\repos\codeWarsShortestWord\codeWarsShortestWord\bin\Debug\codeWarsShortestWord.pdb
-C:\Users\Costa\source\repos\codeWarsShortestWord\codeWarsShortestWord\obj\Debug\codeWarsShortestWord.exe
-C:\Users\Costa\source\repos\codeWarsShortestWord\codeWarsShortestWord\obj\Debug\codeWarsShortestWord.pdb

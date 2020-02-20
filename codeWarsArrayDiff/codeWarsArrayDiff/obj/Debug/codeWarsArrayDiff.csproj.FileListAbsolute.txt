@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\codeWarsArrayDiff\codeWarsArrayDiff\bin\Debug\codeWarsArrayDiff.exe.config
-C:\Users\Costa\source\repos\codeWarsArrayDiff\codeWarsArrayDiff\bin\Debug\codeWarsArrayDiff.exe
-C:\Users\Costa\source\repos\codeWarsArrayDiff\codeWarsArrayDiff\bin\Debug\codeWarsArrayDiff.pdb
-C:\Users\Costa\source\repos\codeWarsArrayDiff\codeWarsArrayDiff\obj\Debug\codeWarsArrayDiff.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\codeWarsArrayDiff\codeWarsArrayDiff\obj\Debug\codeWarsArrayDiff.exe
-C:\Users\Costa\source\repos\codeWarsArrayDiff\codeWarsArrayDiff\obj\Debug\codeWarsArrayDiff.pdb

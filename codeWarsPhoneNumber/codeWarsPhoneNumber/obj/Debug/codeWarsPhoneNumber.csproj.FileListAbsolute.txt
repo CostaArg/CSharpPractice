@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\csharpPractice\codeWarsPhoneNumber\codeWarsPhoneNumber\bin\Debug\codeWarsPhoneNumber.exe.config
-C:\Users\Costa\source\repos\csharpPractice\codeWarsPhoneNumber\codeWarsPhoneNumber\bin\Debug\codeWarsPhoneNumber.exe
-C:\Users\Costa\source\repos\csharpPractice\codeWarsPhoneNumber\codeWarsPhoneNumber\bin\Debug\codeWarsPhoneNumber.pdb
-C:\Users\Costa\source\repos\csharpPractice\codeWarsPhoneNumber\codeWarsPhoneNumber\obj\Debug\codeWarsPhoneNumber.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\csharpPractice\codeWarsPhoneNumber\codeWarsPhoneNumber\obj\Debug\codeWarsPhoneNumber.exe
-C:\Users\Costa\source\repos\csharpPractice\codeWarsPhoneNumber\codeWarsPhoneNumber\obj\Debug\codeWarsPhoneNumber.pdb

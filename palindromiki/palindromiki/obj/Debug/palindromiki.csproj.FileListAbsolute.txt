@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\palindromiki\palindromiki\bin\Debug\palindromiki.exe.config
-C:\Users\Costa\source\repos\palindromiki\palindromiki\bin\Debug\palindromiki.exe
-C:\Users\Costa\source\repos\palindromiki\palindromiki\bin\Debug\palindromiki.pdb
-C:\Users\Costa\source\repos\palindromiki\palindromiki\obj\Debug\palindromiki.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\palindromiki\palindromiki\obj\Debug\palindromiki.exe
-C:\Users\Costa\source\repos\palindromiki\palindromiki\obj\Debug\palindromiki.pdb
