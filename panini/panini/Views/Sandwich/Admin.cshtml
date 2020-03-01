@@ -1,0 +1,47 @@
+﻿@model IEnumerable<panini.Models.Sandwich>
+
+    <!-- Contact Section -->
+    <section class="contact-section bg-black">
+        <div class="container">
+
+            <h2 class="py-4" style="color:white; text-align: center">Click on any panini in order to edit its information</h2>
+
+            <div class="row">
+
+                @foreach (var item in Model)
+                {
+
+                    <div class="col-md-4 mb-3 mb-md-0">
+                        <div class="card py-4 h-100">
+                            <div class="card-body text-center">
+                                <h4 class="text-uppercase m-3 font-weight-bold">
+                                    @Html.DisplayFor(modelItem => item.Name)
+                                </h4>
+                                <a href="/Sandwich/Edit/@Html.DisplayFor(modelItem => item.IdNumber)">
+                                    <img class="card-img-top" src="@Html.DisplayFor(modelItem => item.PhotoUrl)" alt="Panini Image">
+                                </a>
+                                <hr class="my-4">
+                                <div class="small text-black-50">
+                                    <div class="m-1"><strong>@Html.DisplayNameFor(model => model.Cost): </strong>@Html.DisplayFor(modelItem => item.Cost)€</div>
+                                    <div class="m-1"><strong>@Html.DisplayNameFor(model => model.Cuisine): </strong>@Html.DisplayFor(modelItem => item.Cuisine)</div>
+                                    <div class="m-1"><strong>@Html.DisplayNameFor(model => model.Ingredients): </strong>@Html.DisplayFor(modelItem => item.Ingredients)</div>
+                                    <div class="m-1"><strong>@Html.DisplayNameFor(model => model.IsToasted) </strong>@Html.DisplayFor(modelItem => item.IsToasted)</div>
+                                </div>
+                                <div class="btn-group">
+                                    <div class="btn btn-danger mt-5">
+                                        <a style="color:white" href="/Sandwich/Delete/@Html.DisplayFor(modelItem => item.IdNumber)">Delete Panini</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+
+            </div>
+
+            <div class="social d-flex justify-content-center">
+                <h1 style="color: transparent">jugaad</h1>
+            </div>
+
+        </div>
+    </section>
