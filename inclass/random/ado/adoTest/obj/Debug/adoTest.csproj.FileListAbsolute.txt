@@ -1,6 +1,0 @@
-C:\Users\Costa\source\repos\adoTest\adoTest\bin\Debug\adoTest.exe.config
-C:\Users\Costa\source\repos\adoTest\adoTest\bin\Debug\adoTest.exe
-C:\Users\Costa\source\repos\adoTest\adoTest\bin\Debug\adoTest.pdb
-C:\Users\Costa\source\repos\adoTest\adoTest\obj\Debug\adoTest.csprojAssemblyReference.cache
-C:\Users\Costa\source\repos\adoTest\adoTest\obj\Debug\adoTest.exe
-C:\Users\Costa\source\repos\adoTest\adoTest\obj\Debug\adoTest.pdb
