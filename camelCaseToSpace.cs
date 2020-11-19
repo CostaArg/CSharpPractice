@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,21 +19,15 @@ namespace camelCaseCodeWars
     {
         public static string BreakCamelCase(string str)
         {
-            // complete the function
-
             List<char> charList = new List<char>();
-
             charList.AddRange(str);
-
             string word = "";
 
             foreach (var item in charList)
             {
-                
-
-                if(item.ToString().ToUpper() == item.ToString())
+                if (item.ToString().ToUpper() == item.ToString())
                 {
-                    word += " " + item;
+                    word += " " + item.ToString().ToLower();
                 }
                 else
                 {
